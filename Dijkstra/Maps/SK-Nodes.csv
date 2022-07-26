@@ -1,0 +1,49 @@
+name,node_code,node_type,owner,province,latitude,longitude,planning_region,sources,notes
+"IPT McNeill",PP_ABSK1_IPT,IPT,"AB-SK Border",SK,50.589380,-110.003956,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"IPT Island Falls",PP_MBSK1_IPT,IPT,"MB-SK Border",SK,54.794729,-101.885937,Manitoba,"name:367, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"IPT EB Campbell",PP_MBSK2_IPT,IPT,"MB-SK Border",SK,53.722668,-101.769565,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"IPT Boundary Dam",PP_MBSK3_IPT,IPT,"MB-SK Border",SK,49.495283,-101.393102,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"IPT Tantallon",PP_MBSK4_IPT,IPT,"MB-SK Border",SK,50.544463,-101.474715,Saskatachewan,"name:361, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"IPT Yorkton",PP_MBSK5_IPT,IPT,"MB-SK Border",SK,51.202531,-101.538936,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Assiniboia,SK_ASS_DSS,DSS,Saskpower,SK,49.611311,-105.961705,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Bone Creek",SK_BCK_DSS,DSS,Saskpower,SK,49.918914,-108.117279,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Boundary Dam",SK_BDM_GSS,GSS,Saskpower,SK,49.096100,-103.030500,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Battleford,SK_BFD_GSS,GSS,Saskpower,SK,52.758240,-108.280284,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Belle Plain",SK_BLP_DSS,DSS,Saskpower,SK,50.393647,-105.155663,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Brada,SK_BRA_DSS,DSS,Saskpower,SK,52.702233,-108.172683,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Beatty,SK_BTY_DSS,DSS,Saskpower,SK,52.911018,-104.844212,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Coteau Creek",SK_CCK_GSS,GSS,Saskpower,SK,51.274769,-106.873648,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Codette,SK_CDT_DSS,DSS,Saskpower,SK,53.287725,-104.037682,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Chaplin,SK_CHP_DSS,DSS,Saskpower,SK,50.458463,-106.655265,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Condie,SK_CND_DSS,DSS,Saskpower,SK,50.519458,-104.756747,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Cory,SK_CRY_GSS,GSS,Saskpower,SK,52.092700,-106.853300,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"EB Campbell",SK_EBC_GSS,GSS,Saskpower,SK,53.688980,-103.347519,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Ermine,SK_ERM_GSS,GSS,Saskpower,SK,51.873000,-109.039900,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Hawarden ",SK_HWD_DSS,DSS,Saskpower,SK,51.417188,-106.625851,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Island Falls",SK_ISF_GSS,GSS,Saskpower,SK,55.528409,-102.356147,Manitoba,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Kennedy,SK_KDY_DSS,DSS,Saskpower,SK,50.044552,-102.422041,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Key Lake",SK_KLK_DSS,DSS,Saskpower,SK,57.224408,-105.645028,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Lloydminster,SK_LDM_DSS,DSS,Saskpower,SK,53.247035,-109.974347,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Landis,SK_LDS_GSS,GSS,Saskpower,SK,52.198800,-108.450900,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Lumsden,SK_LMS_DSS,DSS,Saskpower,SK,50.646923,-104.867137,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Meadow Lake",SK_MDL_GSS,GSS,Saskpower,SK,54.088440,-108.437515,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Morse,SK_MRS_GSS,GSS,Saskpower,SK,50.399055,-107.223077,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Nipawin,SK_NIP_GSS,GSS,Saskpower,SK,53.320953,-104.043078,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Peebles,SK_PBL_DSS,DSS,Saskpower,SK,50.158980,-102.947645,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Poplar River",SK_PPR_GSS,GSS,Saskpower,SK,49.057900,-105.485100,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Pasqua,SK_PQA_DSS,DSS,Saskpower,SK,50.378346,-105.391334,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Prince Albert",SK_PRA_DSS,DSS,Saskpower,SK,53.154991,-105.735622,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Queen Elizabeth",SK_QEB_GSS,GSS,Saskpower,SK,52.094400,-106.705000,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Regina South",SK_REG_DSS,DSS,Saskpower,SK,50.431099,-104.549427,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Rushlake Creek",SK_RUC_DSS,DSS,Saskpower,SK,50.342535,-107.401577,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Riverhurst,SK_RVH_GSS,GSS,Saskpower,SK,50.892872,-106.881422,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Shand,SK_SHD_GSS,GSS,Saskpower,SK,49.075100,-102.864100,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Senator,SK_SNT_DSS,DSS,Saskpower,SK,53.065358,-105.732488,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Swift Current",SK_SWC_DSS,DSS,Saskpower,SK,50.298269,-107.926208,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Tisdale,SK_TSD_DSS,DSS,Saskpower,SK,52.878664,-104.037315,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Tantallon,SK_TTL_DSS,DSS,Saskpower,SK,50.596096,-101.855381,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Uranium City",SK_URC_DSS,DSS,Saskpower,SK,59.569023,-108.609661,Manitoba,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Weyburn,SK_WEY_DSS,DSS,Saskpower,SK,49.643355,-103.901691,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Wolverine,SK_WLV_DSS,DSS,Saskpower,SK,51.878729,-105.312311,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Yorkton,SK_YKT_DSS,DSS,Saskpower,SK,51.186731,-102.452697,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"INT Tioga",XX_SKUS1_INT,INT,"SK-US Border",SK,48.999341,-103.024403,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
