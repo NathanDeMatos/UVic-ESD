@@ -1,0 +1,569 @@
+name,node_code,node_type,owner,province,latitude,longitude,planning_region,sources,notes
+"IPT Beauharnois",PP_ONQC1_IPT,IPT,"ON-QC Border",QC,45.214221,-74.355813,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"IPT Outaouais",PP_ONQC2_IPT,IPT,"ON-QC Border",QC,45.520620,-75.422937,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"IPT Masson",PP_ONQC3_IPT,IPT,"ON-QC Border",QC,45.520622,-75.422753,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"IPT Chats Falls",PP_ONQC4_IPT,IPT,"ON-QC Border",QC,45.516922,-76.210374,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"IPT Chenaux",PP_ONQC5_IPT,IPT,"ON-QC Border",QC,45.631508,-76.682252,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"IPT Kipawa",PP_ONQC6_IPT,IPT,"ON-QC Border",QC,46.382367,-78.727303,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"IPT Dymond",PP_ONQC7_IPT,IPT,"ON-QC Border",QC,47.630404,-79.517572,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"IPT Madawaska",PP_QCNB1_IPT,IPT,"QC-NB Border",QC,47.458768,-68.523122,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"IPT Matapédia",PP_QCNB2_IPT,IPT,"QC-NB Border",QC,47.992625,-66.851334,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"IPT Montagnais",PP_QCNL1_IPT,IPT,"QC-NL Border",QC,52.102162,-65.693168,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Junction 1646",QC_1646_JCT,JCT,"Hydro Québec",QC,48.519710,-71.217507,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Junction 1647",QC_1647_JCT,JCT,"Hydro Québec",QC,48.519450,-71.217529,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Alcoa-Aluminierie de Deschambault SENC",QC_AAD_ISS,ISS,"Hydro Québec",QC,46.698835,-71.944585,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Aluminerie-de-Bécancour,QC_ABC_ISS,ISS,"Hydro Québec",QC,46.377781,-72.389835,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Abitibi,QC_ABT_TSS,TSS,"Hydro Québec",QC,49.826760,-75.467877,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Abitibi Consolidated Amos",QC_ACA_ISS,ISS,"Hydro Québec",QC,48.568175,-78.157537,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+L'Acadie,QC_ACD_DSS,DSS,"Hydro Québec",QC,45.318109,-73.323239,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Abitibi Consolidated Kénogami",QC_ACK_ISS,ISS,"Hydro Québec",QC,48.431259,-71.244100,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Abitibi Consolidated Alma",QC_ACL_ISS,ISS,"Hydro Québec",QC,48.564555,-71.658843,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Acton,QC_ACT_DSS,DSS,"Hydro Québec",QC,45.646908,-72.578668,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Adélard-Godbout,QC_ADG_DSS,DSS,"Hydro Québec",QC,45.497382,-73.555737,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Adamsville,QC_ADM_DSS,DSS,"Hydro Québec",QC,45.312002,-72.715339,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Aluminière Grande-Baie Alcan",QC_AGA_ISS,ISS,"Hydro Québec",QC,48.308822,-70.924913,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Alain-Grandbois,QC_AGB_DSS,DSS,"Hydro Québec",QC,46.659235,-72.114330,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Albanel,QC_ALB_SWS,SWS,"Hydro Québec",QC,51.669994,-75.603728,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Alcoa,QC_ALC_ISS,ISS,SCHM,QC,49.257037,-68.156315,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Alma,QC_ALM_DSS,DSS,"Hydro Québec",QC,48.521028,-71.613596,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Aluminerie Alouette",QC_ALO_ISS,ISS,"Hydro Québec",QC,50.160795,-66.436372,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Almaville,QC_ALV_DSS,DSS,"Hydro Québec",QC,46.522538,-72.739655,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Amos,QC_AMO_DSS,DSS,"Hydro Québec",QC,48.546444,-78.093853,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Amqui,QC_AMQ_DSS,DSS,"Hydro Québec",QC,48.467816,-67.448882,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Anne-Hébert,QC_ANH_DSS,DSS,"Hydro Québec",QC,46.751804,-71.463153,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Antoine-Lemieux,QC_ANL_DSS,DSS,"Hydro Québec",QC,46.115745,-71.290925,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Anse-à-Valleau,QC_ANV_GSS,GSS,"Hydro Québec",QC,49.079363,-64.627360,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Appalaches,QC_APP_TSS,TSS,"Hydro Québec",QC,46.134455,-71.397979,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Aqueduc,QC_AQD_TSS,TSS,"Hydro Québec",QC,45.428008,-73.617121,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Arthur-Buies,QC_ARB_DSS,DSS,"Hydro Québec",QC,45.805406,-74.008064,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Argonal Inc",QC_ARG_ISS,ISS,"Hydro Québec",QC,45.826575,-73.269309,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Arnaud,QC_ARN_TSS,TSS,"Hydro Québec",QC,50.194081,-66.591450,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Arthabaska,QC_ART_DSS,DSS,"Hydro Québec",QC,46.005375,-71.947296,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Asbestos,QC_ASB_DSS,DSS,"Hydro Québec",QC,45.784199,-71.942244,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Atwater,QC_ATW_DSS,DSS,"Hydro Québec",QC,45.473715,-73.571402,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Alcan Usine Shawinigan",QC_AUS_ISS,ISS,"Hydro Québec",QC,46.562230,-72.735125,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Basell Canada Inc",QC_BAS_ISS,ISS,"Hydro Québec",QC,45.706720,-73.417441,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Baie-Trinité,QC_BAT_DSS,DSS,"Hydro Québec",QC,49.409588,-67.359681,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Baie d'Urfé",QC_BAU_DSS,DSS,"Hydro Québec",QC,45.419299,-73.920506,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Beauceville-Est,QC_BCE_DSS,DSS,"Hydro Québec",QC,46.209066,-70.769844,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Boucherville,QC_BCH_TSS,TSS,"Hydro Québec",QC,45.600886,-73.365317,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Beauceville,QC_BCV_TSS,TSS,"Hydro Québec",QC,46.224455,-70.795311,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Bout-de-l'Île,QC_BDI_DSS,DSS,"Hydro Québec",QC,45.664822,-73.525004,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Bécancour GS",QC_BEC_GSS,GSS,"Hydro Québec",QC,46.392484,-72.352370,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Bécancour,QC_BEC_TSS,TSS,"Hydro Québec",QC,46.363478,-72.373532,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Bedford,QC_BED_DSS,DSS,"Hydro Québec",QC,45.134608,-72.962896,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Beauharnois-Est,QC_BEE_GSS,GSS,"Hydro Québec",QC,45.312557,-73.902455,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Beaulieu,QC_BEL_DSS,DSS,"Hydro Québec",QC,45.334173,-71.845929,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Bélanger,QC_BEL_TSS,TSS,"Hydro Québec",QC,45.571621,-73.584014,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Beaumont,QC_BEM_DSS,DSS,"Hydro Québec",QC,45.525015,-73.620434,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Beauharnois-Ouest,QC_BEO_TSS,TSS,"Hydro Québec",QC,45.313240,-73.917012,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Bourget,QC_BGT_DSS,DSS,"Hydro Québec",QC,46.806517,-71.155950,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Bowater Gatineau",QC_BGT_ISS,ISS,"Hydro Québec",QC,45.482169,-75.653441,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Bolduc,QC_BLD_DSS,DSS,"Hydro Québec",QC,45.947705,-70.658348,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Boulevard-Labelle,QC_BLL_DSS,DSS,"Hydro Québec",QC,45.656603,-73.852063,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Blainville,QC_BLV_DSS,DSS,"Hydro Québec",QC,45.687802,-73.920082,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Boralex,QC_BLX_ISS,ISS,"Hydro Québec",QC,48.383535,-77.223932,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Beaumont GS",QC_BMT_GSS,GSS,"Hydro Québec",QC,47.555923,-72.836714,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"B.O.C. Canada Inc",QC_BOC_ISS,ISS,"Hydro Québec",QC,45.275187,-72.109987,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Bourassa,QC_BOU_DSS,DSS,"Hydro Québec",QC,45.639309,-73.563867,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Bowater Produits Forestiers",QC_BPF_ISS,ISS,"Hydro Québec",QC,48.879730,-72.215752,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Beaupré,QC_BPR_DSS,DSS,"Hydro Québec",QC,47.057459,-70.922937,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Beauport,QC_BPT_DSS,DSS,"Hydro Québec",QC,46.884178,-71.209926,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Bergeronnes,QC_BRG_SWS,SWS,"Hydro Québec",QC,48.341426,-69.467446,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Berri,QC_BRI_DSS,DSS,"Hydro Québec",QC,45.517008,-73.566018,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Bromptonville,QC_BRO_DSS,DSS,"Hydro Québec",QC,45.484009,-71.924502,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Brossard,QC_BRS_DSS,DSS,"Hydro Québec",QC,45.460177,-73.439814,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Bryson,QC_BRY_GSS,GSS,"Hydro Québec",QC,45.660665,-76.632727,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Bersimis-1,QC_BS1_GSS,GSS,"Hydro Québec",QC,49.295233,-69.551063,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Bersimis-2,QC_BS2_GSS,GSS,"Hydro Québec",QC,49.171281,-69.225851,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Bois-Francs,QC_BSF_DSS,DSS,"Hydro Québec",QC,46.066785,-71.980638,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Baie-Saint-Paul,QC_BSP_DSS,DSS,"Hydro Québec",QC,47.452379,-70.571569,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Les Basques",QC_BSQ_DSS,DSS,"Hydro Québec",QC,48.346519,-69.463010,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Brisay,QC_BSY_GSS,GSS,"Hydro Québec",QC,54.449020,-70.512774,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Berthier,QC_BTH_DSS,DSS,"Hydro Québec",QC,46.095155,-73.170128,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Buckingham,QC_BUC_DSS,DSS,"Hydro Québec",QC,45.573478,-75.405579,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Cabano,QC_CAB_DSS,DSS,"Hydro Québec",QC,47.671188,-68.884313,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Cacouna,QC_CAC_DSS,DSS,"Hydro Québec",QC,47.886627,-69.460957,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Chute-à-Caron,QC_CAC_GSS,GSS,"Hydro Québec",QC,48.450727,-71.253783,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Calumet,QC_CAL_DSS,DSS,"Hydro Québec",QC,45.647799,-74.661673,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Chute-Allard,QC_CAL_GSS,GSS,"Hydro Québec",QC,47.891495,-73.717945,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Carillon,QC_CAR_GSS,GSS,"Hydro Québec",QC,45.569547,-74.382002,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Chute-à-la-Savane,QC_CAS_GSS,GSS,"Hydro Québec",QC,48.751506,-71.840997,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Cascades Canada East Angus",QC_CCE_ISS,ISS,"Hydro Québec",QC,48.435958,-71.252248,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Cascades Canada Saguenay",QC_CCS_ISS,ISS,"Hydro Québec",QC,48.435958,-71.252248,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Chute-du-diable,QC_CDD_GSS,GSS,"Hydro Québec",QC,48.780431,-71.702435,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Cadillac,QC_CDL_GSS,GSS,"Hydro Québec",QC,48.213977,-78.300422,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Chute-des-Passes,QC_CDP_DSS,DSS,"Hydro Québec",QC,49.840667,-71.163270,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Cadieux,QC_CDX_DSS,DSS,"Hydro Québec",QC,45.657026,-76.621328,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Cascades Groupe Papiers",QC_CGP_ISS,ISS,"Hydro Québec",QC,45.761758,-74.004959,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Chisasibi,QC_CHA_DSS,DSS,"Hydro Québec",QC,53.773600,-78.887645,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Charlesbourg,QC_CHB_DSS,DSS,"Hydro Québec",QC,46.886146,-71.321357,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Chibougamau,QC_CHB_TSS,TSS,"Hydro Québec",QC,49.783532,-74.651008,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Chicoutimi,QC_CHC_DSS,DSS,"Hydro Québec",QC,48.417842,-71.058089,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Chenaux,QC_CHE_DSS,DSS,"Hydro Québec",QC,46.355492,-72.545674,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Châteauguay,QC_CHG_DSS,DSS,"Hydro Québec",QC,45.253268,-73.869774,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Chute-Hemmings,QC_CHH_GSS,GSS,"Hydro Québec",QC,45.863744,-72.451641,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Chigoubiche,QC_CHI_DSS,DSS,"Hydro Québec",QC,49.000394,-73.307749,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Chelsea,QC_CHL_GSS,GSS,"Hydro Québec",QC,45.511898,-75.779531,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Chamouchouane,QC_CHM_SWS,SWS,"Hydro Québec",QC,48.665560,-72.713818,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Chicoutimi-Nord,QC_CHN_DSS,DSS,"Hydro Québec",QC,48.454039,-71.097314,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Chénier,QC_CHN_TSS,TSS,"Hydro Québec",QC,45.587730,-74.060394,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Chomedey,QC_CHO_TSS,TSS,"Hydro Québec",QC,45.561217,-73.802929,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Chapais,QC_CHP_DSS,DSS,"Hydro Québec",QC,49.789432,-74.858906,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Charette,QC_CHR_DSS,DSS,"Hydro Québec",QC,46.438819,-72.942639,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Chissibi,QC_CHS_SWS,SWS,"Hydro Québec",QC,53.733522,-76.009175,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Chaudière,QC_CHU_DSS,DSS,"Hydro Québec",QC,46.699855,-71.294860,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Chenéville,QC_CHV_DSS,DSS,"Hydro Québec",QC,45.884646,-75.046091,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Charlevoix,QC_CHX_DSS,DSS,"Hydro Québec",QC,47.690757,-70.254534,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Chambly,QC_CHY_DSS,DSS,"Hydro Québec",QC,45.444682,-73.280861,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Charland,QC_CLD_DSS,DSS,"Hydro Québec",QC,45.560216,-73.646567,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Carleton,QC_CLT_GSS,GSS,"Hydro Québec",QC,48.173699,-66.118440,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Cleveland,QC_CLV_DSS,DSS,"Hydro Québec",QC,45.350572,-72.704489,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Corporation Minière Inmet",QC_CMI_ISS,ISS,"Hydro Québec",QC,51.004389,-74.456804,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Companie-Minière-Québec-Cartier,QC_CMQ_ISS,ISS,"Hydro Québec",QC,50.033112,-66.789830,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Copper Mountain",QC_CMT_DSS,DSS,"Hydro Québec",QC,48.938005,-65.474435,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Coigny,QC_COI_DSS,DSS,"Hydro Québec",QC,49.056248,-77.968185,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Coleraine,QC_COL_DSS,DSS,"Hydro Québec",QC,45.937666,-71.318750,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Côte-Nord,QC_CON_DSS,DSS,"Hydro Québec",QC,49.301377,-68.075305,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Cowansville,QC_COW_DSS,DSS,"Hydro Québec",QC,45.204296,-72.762857,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Cournoyer,QC_COY_DSS,DSS,"Hydro Québec",QC,46.371996,-72.386599,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Cap-de-la-Madeleine,QC_CPM_DSS,DSS,"Hydro Québec",QC,46.548442,-72.412328,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Compagnie Papiers Stadacona S.E.C.",QC_CPS_ISS,ISS,"Hydro Québec",QC,46.828055,-71.215464,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Carignan,QC_CRG_TSS,TSS,"Hydro Québec",QC,45.972672,-73.157576,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Cascapédia,QC_CSC_DSS,DSS,"Hydro Québec",QC,48.171836,-65.814957,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Cogénération Saint-Félicien",QC_CSF_GSS,GSS,"Hydro Québec",QC,48.638350,-72.433810,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Causapscal,QC_CSP_DSS,DSS,"Hydro Québec",QC,48.331881,-67.244526,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Casavant,QC_CSV_DSS,DSS,"Hydro Québec",QC,45.626070,-72.972400,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Central-2,QC_CT2_DSS,DSS,"Hydro Québec",QC,45.498256,-73.556098,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Contrecoeur,QC_CTC_DSS,DSS,"Hydro Québec",QC,45.834170,-73.240699,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Coaticook,QC_CTK_DSS,DSS,"Hydro Québec",QC,45.112622,-71.803506,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Daaquam,QC_DAQ_DSS,DSS,"Hydro Québec",QC,46.565344,-70.093017,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Dubuc,QC_DBC_ISS,ISS,"Hydro Québec",QC,48.411584,-71.125538,Québec,"name:None, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Desbiens,QC_DBN_DSS,DSS,"Hydro Québec",QC,48.417753,-71.933368,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Des Cantons",QC_DEC_TSS,TSS,"Hydro Québec",QC,45.565813,-71.951535,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Dégelis,QC_DEG_DSS,DSS,"Hydro Québec",QC,47.555845,-68.681045,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Des Hêtres",QC_DEH_DSS,DSS,"Hydro Québec",QC,46.572831,-72.714653,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"De Lorimier",QC_DEL_DSS,DSS,"Hydro Québec",QC,45.527530,-73.553523,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Delson,QC_DLN_DSS,DSS,"Hydro Québec",QC,45.386732,-73.542418,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Delisle,QC_DLS_ISS,ISS,RTA,QC,48.591575,-71.626113,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Doc-Grignon,QC_DOG_DSS,DSS,"Hydro Québec",QC,45.950487,-74.127401,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Domtar Hull",QC_DOH_ISS,ISS,"Hydro Québec",QC,45.427861,-75.709284,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Domtar Windsor",QC_DOM_ISS,ISS,"Hydro Québec",QC,45.565563,-71.980896,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Domtar Quévillon",QC_DOQ_ISS,ISS,"Hydro Québec",QC,49.024122,-76.954607,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Dorchester,QC_DOR_DSS,DSS,"Hydro Québec",QC,45.508364,-73.563213,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Du Portage",QC_DPT_DSS,DSS,RTA,QC,48.304610,-71.126582,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Dorion,QC_DRN_DSS,DSS,"Hydro Québec",QC,45.374052,-74.044027,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Deschambault,QC_DSM_SWS,SWS,"Hydro Québec",QC,46.702095,-71.936456,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Duchesnay,QC_DUC_DSS,DSS,"Hydro Québec",QC,46.828135,-71.604876,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Du Tremblay",QC_DUT_DSS,DSS,"Hydro Québec",QC,45.547511,-73.449819,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Duvernay,QC_DUV_TSS,TSS,"Hydro Québec",QC,45.662106,-73.671623,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Daveluyville,QC_DVL_DSS,DSS,"Hydro Québec",QC,46.198956,-72.150251,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"East Broughton",QC_EAB_DSS,DSS,"Hydro Québec",QC,46.236052,-71.042024,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"East Angus",QC_EAG_DSS,DSS,"Hydro Québec",QC,45.467707,-71.657893,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"EKA Chimie Canada Inc",QC_EKA_ISS,ISS,"Hydro Québec",QC,45.237559,-74.093014,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"EKA Chimie Canada Inc Magog",QC_EKM_ISS,ISS,"Hydro Québec",QC,45.273955,-72.113370,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Eastmain-1,QC_EM1_GSS,GSS,"Hydro Québec",QC,52.183013,-76.055626,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Elkem Metal Canada",QC_EMC_ISS,ISS,"Hydro Québec",QC,48.413181,-71.129062,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Erco Mondial Buckingham",QC_ERC_ISS,ISS,"Hydro Québec",QC,45.592544,-75.424732,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Emballages Smurfit-Stone",QC_ESS_ISS,ISS,"Hydro Québec",QC,45.642371,-76.669688,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Emballages-Smurfit-Stone La Tuque",QC_EST_ISS,ISS,"Hydro Québec",QC,47.447125,-72.793752,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"F.F. Soucy S.E.C.",QC_FFS_ISS,ISS,"Hydro Québec",QC,47.819126,-69.518346,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Forges-de-Sorel,QC_FGS_ISS,ISS,"Hydro Québec",QC,46.045854,-73.127824,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Figuery,QC_FIG_TSS,TSS,"Hydro Québec",QC,48.547136,-78.090505,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Falconbridge Limitée Montréal-Est",QC_FLC_ISS,ISS,"Hydro Québec",QC,45.626431,-73.512321,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Fleury,QC_FLE_DSS,DSS,"Hydro Québec",QC,45.538721,-73.662868,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"FPS Canada Inc",QC_FPS_ISS,ISS,"Hydro Québec",QC,45.600950,-75.255459,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Frontenac-1,QC_FR1_DSS,DSS,"Hydro Québec",QC,46.832806,-71.262158,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Frontenac-2,QC_FR2_DSS,DSS,"Hydro Québec",QC,46.831866,-71.261300,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Francheville,QC_FRA_DSS,DSS,"Hydro Québec",QC,46.353149,-72.625945,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Farnham,QC_FRN_DSS,DSS,"Hydro Québec",QC,45.288067,-72.956038,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Gamelin,QC_GAM_DSS,DSS,"Hydro Québec",QC,45.444722,-75.750002,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Gatineau,QC_GAT_DSS,DSS,"Hydro Québec",QC,45.481952,-75.654217,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Goldex,QC_GDX_ISS,ISS,"Hydro Québec",QC,48.093010,-77.862400,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+GEC-Alstom-Fagan,QC_GEC_ISS,ISS,"Hydro Québec",QC,46.035102,-73.127145,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Glenwood,QC_GLN_DSS,DSS,"Hydro Québec",QC,45.409778,-75.834768,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Godbout,QC_GOD_DSS,DSS,"Hydro Québec",QC,49.327552,-67.626399,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Goémon,QC_GOE_TSS,TSS,"Hydro Québec",QC,49.091228,-66.638828,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Goodyear Canada",QC_GOO_ISS,ISS,"Hydro Québec",QC,45.271153,-74.111771,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Grand-Portage,QC_GPG_DSS,DSS,"Hydro Québec",QC,47.816793,-69.525889,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Grand-Brulé,QC_GRB_TSS,TSS,"Hydro Québec",QC,46.060633,-74.566271,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Gracefield,QC_GRC_DSS,DSS,"Hydro Québec",QC,46.103012,-76.043348,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Gros-Morne,QC_GRM_GSS,GSS,"Hydro Québec",QC,49.180979,-65.461829,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Grondines,QC_GRO_SWS,SWS,"Hydro Québec",QC,46.625728,-72.014370,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Grand-Pré,QC_GRP_DSS,DSS,"Hydro Québec",QC,46.264740,-72.949107,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Grantham,QC_GRT_DSS,DSS,"Hydro Québec",QC,45.878203,-72.521221,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Groulx,QC_GRX_DSS,DSS,"Hydro Québec",QC,45.691948,-73.776857,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Granby,QC_GRY_DSS,DSS,"Hydro Québec",QC,45.390410,-72.749324,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Gaspésia,QC_GSA_ISS,ISS,"Hydro Québec",QC,48.347224,-64.680414,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Gaspé,QC_GSP_DSS,DSS,"Hydro Québec",QC,48.827030,-64.516690,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Guy,QC_GUY_DSS,DSS,"Hydro Québec",QC,45.491062,-73.571077,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Hadley,QC_HAD_DSS,DSS,"Hydro Québec",QC,45.449369,-73.589153,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Hampstead,QC_HAM_DSS,DSS,"Hydro Québec",QC,45.472705,-73.657771,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Hemmingford,QC_HEM_DSS,DSS,"Hydro Québec",QC,45.072864,-73.577664,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Heriot,QC_HER_TSS,TSS,"Hydro Québec",QC,45.823493,-72.477436,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"High Falls",QC_HIF_GSS,GSS,"Hydro Québec",QC,45.839707,-75.645583,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Hull-2,QC_HL2_GSS,GSS,"Hydro Québec",QC,45.422084,-75.719472,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Hertel,QC_HRT_TSS,TSS,"Hydro Québec",QC,45.409898,-73.428041,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Havre-Saint-Pierre,QC_HSP_DSS,DSS,"Hydro Québec",QC,50.266438,-63.635748,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Hart-Jaune,QC_HTJ_GSS,GSS,"Hydro Québec",QC,51.784450,-67.913744,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Hauterive,QC_HTR_DSS,DSS,"Hydro Québec",QC,49.189113,-68.387386,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Huntingdon,QC_HUN_DSS,DSS,"Hydro Québec",QC,45.093866,-74.188600,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Hydrogenal Inc",QC_HYD_ISS,ISS,"Hydro Québec",QC,46.383415,-72.373154,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Iberville,QC_IBR_DSS,DSS,"Hydro Québec",QC,45.310653,-73.218609,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Institute-de-Recherche,QC_IDR_ISS,ISS,"Hydro Québec",QC,45.615142,-73.389680,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Interconnexion-Maclaren,QC_INM_SWS,SWS,"Hydro Québec",QC,45.549665,-75.424823,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Interquisa,QC_INQ_ISS,ISS,"Hydro Québec",QC,45.621131,-73.518380,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Iron-Ore-du-Canada,QC_IOC_ISS,ISS,"Hydro Québec",QC,50.203182,-66.347855,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Irlandais,QC_IRL_DSS,DSS,"Hydro Québec",QC,45.488031,-73.546267,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+IREQ,QC_IRQ_ISS,ISS,"Hydro Québec",QC,45.612242,-73.382674,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Jeanne-d'Arc,QC_JDA_DSS,DSS,"Hydro Québec",QC,45.550856,-73.547806,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Johan-Beetz,QC_JHB_DSS,DSS,"Hydro Québec",QC,50.309568,-62.796656,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Joliette,QC_JLT_DSS,DSS,"Hydro Québec",QC,46.024878,-73.420732,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Jonquière,QC_JNQ_DSS,DSS,"Hydro Québec",QC,48.419537,-71.228032,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Joly,QC_JOL_DSS,DSS,"Hydro Québec",QC,46.295406,-74.778257,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Joutel,QC_JOU_SWS,SWS,"Hydro Québec",QC,49.561912,-78.111156,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Jacques-Cartier,QC_JQC_TSS,TSS,"Hydro Québec",QC,46.792719,-71.722719,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Jean-R Marcotte",QC_JRM_ISS,ISS,"Hydro Québec",QC,45.675642,-73.526419,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Jules-A.-Brillant,QC_JUB_DSS,DSS,"Hydro Québec",QC,48.461779,-68.495829,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Judith-Jasmin,QC_JUJ_DSS,DSS,"Hydro Québec",QC,45.717602,-73.724588,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Kamouraska,QC_KAM_SWS,SWS,"Hydro Québec",QC,47.462092,-69.803880,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Kipawa,QC_KIP_DSS,DSS,"Hydro Québec",QC,46.713128,-79.091866,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Kildare,QC_KLD_DSS,DSS,"Hydro Québec",QC,46.101693,-73.573012,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Katahdin Pâte Québec",QC_KPQ_ISS,ISS,"Hydro Québec",QC,50.033728,-66.801730,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Kruger Inc Bromptonville",QC_KRB_ISS,ISS,"Hydro Québec",QC,45.480094,-71.954404,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Kruger Inc Trois-Rivières",QC_KRT_ISS,ISS,"Hydro Québec",QC,46.324974,-72.557747,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Kingsey,QC_KSY_TSS,TSS,"Hydro Québec",QC,45.841684,-72.004793,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"La Baie",QC_LAB_DSS,DSS,"Hydro Québec",QC,48.311315,-70.920466,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Lachenaie,QC_LAC_DSS,DSS,"Hydro Québec",QC,45.725663,-73.540189,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"La Durantaye",QC_LAD_DSS,DSS,"Hydro Québec",QC,46.815540,-70.847096,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Lac-Alfred,QC_LAD_GSS,GSS,"Hydro Québec",QC,48.385212,-67.744846,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Lafontaine,QC_LAF_TSS,TSS,"Hydro Québec",QC,45.711635,-74.057413,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"La Gabelle",QC_LAG_GSS,GSS,"Hydro Québec",QC,46.449132,-72.739219,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Lambton,QC_LAM_DSS,DSS,"Hydro Québec",QC,45.833989,-71.075653,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+L'Annonciation,QC_LAN_DSS,DSS,"Hydro Québec",QC,46.436108,-74.922322,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+L'Assomption,QC_LAS_DSS,DSS,"Hydro Québec",QC,45.845466,-73.464620,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Laure,QC_LAU_DSS,DSS,"Hydro Québec",QC,50.192130,-66.589361,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Lebel,QC_LBL_ISS,ISS,"Hydro Québec",QC,49.004548,-76.950388,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Lac Bloom",QC_LBM_ISS,ISS,"Hydro Québec",QC,52.797815,-67.255163,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Les Boules",QC_LBS_TSS,TSS,"Hydro Québec",QC,48.667122,-67.966114,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Leclerc,QC_LCL_DSS,DSS,"Hydro Québec",QC,45.423800,-72.750090,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"La Société en commandite revenu Noranda",QC_LCN_ISS,ISS,"Hydro Québec",QC,45.229161,-74.099644,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Les Cèdres",QC_LCS_GSS,GSS,"Hydro Québec",QC,45.311963,-74.027579,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Lachute,QC_LCT_DSS,DSS,"Hydro Québec",QC,45.627382,-74.358195,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Lac-des-Îles,QC_LDI_DSS,DSS,"Hydro Québec",QC,46.405951,-75.502247,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Laurentides,QC_LDS_TSS,TSS,"Hydro Québec",QC,46.859050,-71.314400,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Landry,QC_LDY_DSS,DSS,"Hydro Québec",QC,45.606428,-73.677501,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Le Corbusier",QC_LEC_DSS,DSS,"Hydro Québec",QC,45.590243,-73.749963,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Le François",QC_LEF_DSS,DSS,"Hydro Québec",QC,46.935637,-71.107250,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Le Moyne",QC_LEM_SWS,SWS,"Hydro Québec",QC,53.484125,-75.034469,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Laforge-1,QC_LF1_GSS,GSS,"Hydro Québec",QC,54.167523,-72.608968,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Laforge-2,QC_LF2_GSS,GSS,"Hydro Québec",QC,54.588356,-71.278117,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Laflèche,QC_LFL_DSS,DSS,"Hydro Québec",QC,49.202708,-68.286159,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"La Grande-1",QC_LG1_GSS,GSS,"Hydro Québec",QC,53.731868,-78.572359,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"La Grande-2A",QC_LG2A_GSS,GSS,"Hydro Québec",QC,53.781361,-77.549057,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"La Grande-2",QC_LG2_GSS,GSS,"Hydro Québec",QC,53.782776,-77.532002,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"La Grande-3",QC_LG3_GSS,GSS,"Hydro Québec",QC,53.727381,-75.990080,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"La Grande-4",QC_LG4_GSS,GSS,"Hydro Québec",QC,53.886381,-73.465543,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Langelier,QC_LGL_DSS,DSS,"Hydro Québec",QC,45.601618,-73.570574,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Longue-Pointe,QC_LGP_DSS,DSS,"Hydro Québec",QC,45.588541,-73.537739,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Langlois,QC_LGS_TSS,TSS,"Hydro Québec",QC,45.287485,-74.012755,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Lac-Hope,QC_LHP_DSS,DSS,"Hydro Québec",QC,52.335427,-67.386291,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+L'Île,QC_LIL_DSS,DSS,"Hydro Québec",QC,48.645185,-71.692150,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"L'Isle Maligne",QC_LIM_ISS,ISS,RTA,QC,48.576698,-71.630846,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+L'Île-Perrot,QC_LIP_DSS,DSS,"Hydro Québec",QC,45.377993,-73.943684,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Limoilou,QC_LLL_DSS,DSS,"Hydro Québec",QC,46.829855,-71.223680,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Limbour,QC_LMB_DSS,DSS,"Hydro Québec",QC,45.497499,-75.759795,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Leman,QC_LMN_SWS,SWS,"Hydro Québec",QC,46.535863,-72.762637,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Le Nordais-1",QC_LN1_GSS,GSS,"Hydro Québec",QC,49.054093,-66.755980,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Le Nordais-2",QC_LN2_GSS,GSS,"Hydro Québec",QC,49.054065,-66.756007,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Lanaudière,QC_LND_TSS,TSS,"Hydro Québec",QC,46.016040,-73.413720,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Leneuf,QC_LNF_DSS,DSS,"Hydro Québec",QC,46.723337,-71.792285,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Linière,QC_LNR_DSS,DSS,"Hydro Québec",QC,46.069214,-70.505721,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"La Pocatière",QC_LPC_DSS,DSS,"Hydro Québec",QC,47.357410,-70.057013,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"L'Anse Pleureuse",QC_LPL_DSS,DSS,"Hydro Québec",QC,49.238220,-65.644015,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"La Prairie",QC_LPR_TSS,TSS,"Hydro Québec",QC,45.437019,-73.423782,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Le Plateau",QC_LPT_GSS,GSS,ÉLP,QC,48.138114,-67.438796,Québec,"name:None, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Laurendeau,QC_LRD_DSS,DSS,"Hydro Québec",QC,46.281641,-73.378074,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Larocque,QC_LRQ_ISS,ISS,"Hydro Québec",QC,45.231081,-74.098260,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Laurent,QC_LRT_DSS,DSS,"Hydro Québec",QC,45.491483,-73.687543,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Lorrainville,QC_LRV_DSS,DSS,"Hydro Québec",QC,47.389961,-79.361547,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Léry,QC_LRY_ISS,ISS,"Hydro Québec",QC,45.285482,-73.895791,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"La Suète",QC_LST_DSS,DSS,"Hydro Québec",QC,46.782885,-71.322811,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Lotbinière,QC_LTB_SWS,SWS,"Hydro Québec",QC,46.592951,-71.971158,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"La Trappe",QC_LTR_DSS,DSS,"Hydro Québec",QC,45.500972,-74.012029,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"La Tuque",QC_LTU_GSS,GSS,"Hydro Québec",QC,47.442942,-72.798146,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Lucerne,QC_LUC_SWS,SWS,"Hydro Québec",QC,45.452281,-75.796365,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Lavaltrie,QC_LVL_DSS,DSS,"Hydro Québec",QC,45.934053,-73.380628,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"La Vérendrye",QC_LVR_TSS,TSS,"Hydro Québec",QC,47.496116,-74.933803,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Lévis,QC_LVS_DSS,DSS,"Hydro Québec",QC,46.707337,-71.192300,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Louvicourt,QC_LVT_DSS,DSS,"Hydro Québec",QC,48.088396,-77.504846,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Manic-5A,QC_M5A_GSS,GSS,"Hydro Québec",QC,50.656795,-68.833818,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Madawaska,QC_MAD_SWS,SWS,"Hydro Québec",QC,47.508839,-68.523668,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Mines Agnico-Eagle Limitée",QC_MAE_ISS,ISS,"Hydro Québec",QC,48.247029,-78.439665,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Marcotte,QC_MAR_DSS,DSS,"Hydro Québec",QC,45.852850,-72.460589,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Mascouche,QC_MAS_DSS,DSS,"Hydro Québec",QC,45.746038,-73.620496,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Matane,QC_MAT_DSS,DSS,"Hydro Québec",QC,49.091112,-66.638661,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Mauricie,QC_MAU_TSS,TSS,"Hydro Québec",QC,46.477250,-72.641381,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Manic-1,QC_MC1_GSS,GSS,"Hydro Québec",QC,49.197257,-68.321477,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Manic-2,QC_MC2_GSS,GSS,"Hydro Québec",QC,49.321295,-68.347497,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Manic-3,QC_MC3_GSS,GSS,"Hydro Québec",QC,49.738504,-68.600972,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Manic-5,QC_MC5_GSS,GSS,"Hydro Québec",QC,50.639811,-68.726748,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Mines Casa-Berardi",QC_MCB_ISS,ISS,"Hydro Québec",QC,49.570598,-79.237567,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+McCormick,QC_MCC_GSS,GSS,SCHM,QC,49.192957,-68.325706,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Mittal Canada Inc",QC_MCI_ISS,ISS,"Hydro Québec",QC,45.569561,-73.458076,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Micmac,QC_MCM_DSS,DSS,"Hydro Québec",QC,48.353568,-64.701316,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"MDF La Baie Inc",QC_MDF_ISS,ISS,"Hydro Québec",QC,48.324522,-70.955572,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Mine Doyon",QC_MDY_ISS,ISS,"Hydro Québec",QC,48.253187,-78.511404,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Mégantic,QC_MEG_DSS,DSS,"Hydro Québec",QC,45.587491,-70.894239,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Mékanic,QC_MEK_DSS,DSS,"Hydro Québec",QC,46.748626,-72.547245,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Mercier,QC_MER_DSS,DSS,"Hydro Québec",QC,45.334440,-73.731693,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Monseigneur-Émard,QC_MGE_DSS,DSS,"Hydro Québec",QC,45.275690,-74.101266,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Magog,QC_MGG_DSS,DSS,"Hydro Québec",QC,45.286580,-72.142980,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Mine Gonzague-Langlois",QC_MGL_ISS,ISS,"Hydro Québec",QC,49.194779,-76.759183,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Magnan,QC_MGN_DSS,DSS,"Hydro Québec",QC,46.015598,-73.711142,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Manicouagan,QC_MGN_TSS,TSS,"Hydro Québec",QC,49.291916,-68.391277,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Magpie,QC_MGP_GSS,GSS,"Hydro Québec",QC,50.322238,-64.453918,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Micoua,QC_MIC_TSS,TSS,"Hydro Québec",QC,49.767261,-68.739675,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Mirabel,QC_MIR_DSS,DSS,"Hydro Québec",QC,45.619172,-74.007259,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Mistassini,QC_MIS_DSS,DSS,"Hydro Québec",QC,48.881792,-72.211767,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Malartic-2,QC_MLC_GSS,GSS,"Hydro Québec",QC,48.157166,-78.119000,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Mont-Laurier,QC_MLR_DSS,DSS,"Hydro Québec",QC,46.549975,-75.483108,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Métallurgie Magnola Inc",QC_MMI_ISS,ISS,"Hydro Québec",QC,45.761315,-72.001183,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Mine Malartic",QC_MML_ISS,ISS,"Hydro Québec",QC,48.112631,-78.133506,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Mine Malartic JCT",QC_MML_JCT,JCT,"Hydro Québec",QC,48.171725,-78.178643,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Montréal-Nord,QC_MND_DSS,DSS,"Hydro Québec",QC,45.584357,-73.626653,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Maniwaki,QC_MNI_DSS,DSS,"Hydro Québec",QC,46.396082,-75.983072,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Mine Jeffrey",QC_MNJ_ISS,ISS,"Hydro Québec",QC,45.760621,-71.946496,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Montmagny,QC_MNM_DSS,DSS,"Hydro Québec",QC,46.963474,-70.526642,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Mines Selbaie",QC_MNS_ISS,ISS,"Hydro Québec",QC,49.816313,-78.958644,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Maissonneuve,QC_MNV_DSS,DSS,"Hydro Québec",QC,45.483528,-73.584580,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Moras,QC_MOR_DSS,DSS,"Hydro Québec",QC,46.224075,-72.602432,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Marie-Victorin,QC_MRV_DSS,DSS,"Hydro Québec",QC,45.520342,-73.520765,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Mont Rothery",QC_MRY_GSS,GSS,"Hydro Québec",QC,48.939292,-65.472215,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Montagne-Sèche,QC_MSH_GSS,GSS,"Hydro Québec",QC,49.177963,-64.941658,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Masson-Nord,QC_MSN_DSS,DSS,ÉLL,QC,45.544109,-75.421855,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Masson-Sud,QC_MSS_DSS,DSS,ÉLL,QC,45.543494,-75.421276,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Mont Tremblant",QC_MTB_DSS,DSS,"Hydro Québec",QC,46.180836,-74.529760,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Mont Copper",QC_MTC_GSS,GSS,"Hydro Québec",QC,48.940044,-65.527122,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Mittal Canada Inc Contrecoeur",QC_MTC_ISS,ISS,"Hydro Québec",QC,45.818624,-73.258752,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Montréal-Est,QC_MTE_DSS,DSS,"Hydro Québec",QC,45.622927,-73.522051,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Matagami,QC_MTG_DSS,DSS,"Hydro Québec",QC,49.705867,-77.729260,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Montagnais,QC_MTG_TSS,TSS,"Hydro Québec",QC,51.892644,-65.728181,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Mont-Joli,QC_MTJ_DSS,DSS,"Hydro Québec",QC,48.568001,-68.180179,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Mont-Louis,QC_MTL_GSS,GSS,"Hydro Québec",QC,49.181777,-65.649927,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Mont-Miller,QC_MTM_GSS,GSS,"Hydro Québec",QC,48.980047,-65.495772,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Matapédia,QC_MTP_DSS,DSS,"Hydro Québec",QC,48.016863,-66.927399,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Montérégie,QC_MTR_TSS,TSS,"Hydro Québec",QC,45.498320,-72.713078,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Mont-Royal,QC_MTY_DSS,DSS,"Hydro Québec",QC,45.502531,-73.643335,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Neubois,QC_NBS_DSS,DSS,"Hydro Québec",QC,46.472914,-71.251104,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Notre-Dame,QC_NDA_TSS,TSS,"Hydro Québec",QC,45.582542,-73.513476,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Notre-Dame-du-Laus,QC_NDL_DSS,DSS,"Hydro Québec",QC,46.095928,-75.631945,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Notre-Dame-du-Nord,QC_NDN_DSS,DSS,"Hydro Québec",QC,47.605800,-79.449049,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Nemiscau,QC_NEM_DSS,DSS,"Hydro Québec",QC,51.709993,-76.055268,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Neufchâtel,QC_NEU_DSS,DSS,"Hydro Québec",QC,46.835565,-71.359860,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Nicolet,QC_NIC_TSS,TSS,"Hydro Québec",QC,46.079876,-72.254997,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Nikamo,QC_NIK_SWS,SWS,"Hydro Québec",QC,54.154545,-72.558751,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Niobec,QC_NIO_ISS,ISS,"Hydro Québec",QC,48.531422,-71.161612,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Normetal,QC_NMT_DSS,DSS,"Hydro Québec",QC,48.995429,-79.373890,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Napierville,QC_NPR_DSS,DSS,"Hydro Québec",QC,45.181466,-73.404783,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Normand,QC_NRM_DSS,DSS,"Hydro Québec",QC,52.774375,-67.332934,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Normandin,QC_NRN_DSS,DSS,"Hydro Québec",QC,48.844777,-72.511270,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Natashquan,QC_NTS_DSS,DSS,"Hydro Québec",QC,50.227779,-61.863183,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Obalski,QC_OBL_DSS,DSS,"Hydro Québec",QC,49.877180,-74.406636,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Ouimet,QC_OMT_DSS,DSS,"Hydro Québec",QC,46.134447,-74.592562,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Ormstown,QC_ORM_DSS,DSS,"Hydro Québec",QC,45.152982,-74.026060,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Outardes-2,QC_OT2_GSS,GSS,"Hydro Québec",QC,49.144476,-68.389871,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Outardes-3,QC_OT3_GSS,GSS,"Hydro Québec",QC,49.557292,-68.721667,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Outardes-4,QC_OT4_GSS,GSS,"Hydro Québec",QC,49.703688,-68.903887,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Outardes,QC_OTD_TSS,TSS,"Hydro Québec",QC,49.727807,-68.697789,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Outaouais,QC_OUT_TSS,TSS,"Hydro Québec",QC,45.599702,-75.445713,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Port-Alfred,QC_PAF_DSS,DSS,"Hydro Québec",QC,48.332362,-70.881883,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Papineauville,QC_PAP_DSS,DSS,"Hydro Québec",QC,45.636198,-75.021974,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Paquin,QC_PAQ_DSS,DSS,"Hydro Québec",QC,45.822662,-74.051022,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Parisville,QC_PAR_DSS,DSS,"Hydro Québec",QC,46.517143,-72.060055,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Patriotes,QC_PAT_DSS,DSS,"Hydro Québec",QC,45.581196,-73.920229,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Paugan,QC_PAU_GSS,GSS,"Hydro Québec",QC,45.807827,-75.937614,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Pierre Boucher",QC_PBO_DSS,DSS,"Hydro Québec",QC,45.603655,-73.424168,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Percé,QC_PCE_DSS,DSS,"Hydro Québec",QC,48.534998,-64.345151,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"P.C.I. Chimie Canada Inc",QC_PCI_ISS,ISS,"Hydro Québec",QC,46.388533,-72.378911,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Port Cartier",QC_PCR_SWS,SWS,"Hydro Québec",QC,50.049862,-66.797925,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Périgny,QC_PER_SWS,SWS,"Hydro Québec",QC,48.165975,-70.308265,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Plouffe,QC_PLF_DSS,DSS,"Hydro Québec",QC,45.556703,-73.751117,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Pierre-Le Gardeur",QC_PLG_TSS,TSS,"Hydro Québec",QC,45.736857,-73.545484,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Plessisville,QC_PLS_DSS,DSS,"Hydro Québec",QC,46.206880,-71.780895,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Papier Masson Inc",QC_PMI_ISS,ISS,"Hydro Québec",QC,45.540219,-75.423235,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Palmarolle,QC_PML_DSS,DSS,"Hydro Québec",QC,48.747616,-79.202739,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Pétremont Inc",QC_PMT_ISS,ISS,"Hydro Québec",QC,45.694295,-73.426860,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Pandora,QC_PND_DSS,DSS,"Hydro Québec",QC,48.224522,-78.300348,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Pointe-Noire,QC_PNE_ISS,ISS,"Hydro Québec",QC,50.156260,-66.492372,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Poirier,QC_POI_DSS,DSS,"Hydro Québec",QC,49.430904,-78.115331,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"PPG Canada Inc",QC_PPG_ISS,ISS,"Hydro Québec",QC,45.310598,-73.887115,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Péribonka,QC_PRB_GSS,GSS,"Hydro Québec",QC,49.510826,-71.179288,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Première Chute",QC_PRC_GSS,GSS,"Hydro Québec",QC,47.602426,-79.451168,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Parent,QC_PRT_DSS,DSS,"Hydro Québec",QC,47.919178,-74.600580,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Praxair Canada Contrecoeur",QC_PRX_ISS,ISS,"Hydro Québec",QC,45.825435,-73.265705,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Papiers-Scott Inc",QC_PSI_ISS,ISS,"Hydro Québec",QC,45.964468,-73.467394,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Paspébiac,QC_PSP_DSS,DSS,"Hydro Québec",QC,48.039602,-65.292165,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Pentecôte,QC_PTC_DSS,DSS,"Hydro Québec",QC,49.730647,-67.174508,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Petite-Nation,QC_PTN_TSS,TSS,"Hydro Québec",QC,45.654819,-75.030970,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Provost,QC_PVT_DSS,DSS,"Hydro Québec",QC,46.595882,-73.834955,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Québec,QC_QBC_TSS,TSS,"Hydro Québec",QC,46.831007,-71.264079,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Qit-Fer-et-Titane,QC_QFT_ISS,ISS,"Hydro Québec",QC,46.042740,-73.138399,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Queen,QC_QUN_ISS,ISS,"Hydro Québec",QC,52.567456,-67.432979,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Quyon,QC_QUY_TSS,TSS,"Hydro Québec",QC,45.544123,-76.198305,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Quevillon,QC_QVN_DSS,DSS,"Hydro Québec",QC,49.006106,-76.952881,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Radisson,QC_RAD_TSS,TSS,"Hydro Québec",QC,53.726127,-77.740133,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Ramezay,QC_RAM_DSS,DSS,"Hydro Québec",QC,46.150351,-73.426459,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Roberval,QC_RBV_DSS,DSS,"Hydro Québec",QC,48.506847,-72.257858,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Richelieu,QC_RCH_DSS,DSS,"Hydro Québec",QC,45.313760,-73.277584,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Rockfield,QC_RCK_DSS,DSS,"Hydro Québec",QC,45.439117,-73.656729,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Rivière-du-Loup,QC_RDL_TSS,TSS,"Hydro Québec",QC,47.793180,-69.458039,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Rivière-du-Moulin,QC_RDM_GSS,GSS,"Hydro Québec",QC,47.969593,-71.095760,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Reed,QC_REE_DSS,DSS,"Hydro Québec",QC,45.523583,-73.712499,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Rigaud,QC_RIG_DSS,DSS,"Hydro Québec",QC,45.474638,-74.315923,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Rimouski,QC_RIM_TSS,TSS,"Hydro Québec",QC,48.407908,-68.543069,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Rolls-Royce,QC_RLR_ISS,ISS,"Hydro Québec",QC,45.468578,-73.576852,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Romaine-1,QC_RM1_GSS,GSS,"Hydro Québec",QC,50.390086,-63.261489,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Romaine-2,QC_RM2_GSS,GSS,"Hydro Québec",QC,50.615780,-63.176289,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Romaine-3,QC_RM3_GSS,GSS,"Hydro Québec",QC,51.113405,-63.402875,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Romaine-4,QC_RM4_GSS,GSS,"Hydro Québec",QC,51.349728,-63.498260,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Renaud,QC_RND_DSS,DSS,"Hydro Québec",QC,45.575774,-73.724111,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Reneault,QC_RNT_DSS,DSS,"Hydro Québec",QC,48.470353,-79.037609,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Rob,QC_ROB_ISS,ISS,"Hydro Québec",QC,52.585837,-67.432232,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Rolland,QC_ROL_DSS,DSS,"Hydro Québec",QC,45.756788,-74.006141,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Rapide-2,QC_RP2_GSS,GSS,"Hydro Québec",QC,47.933491,-78.576540,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Rapide-7,QC_RP7_GSS,GSS,"Hydro Québec",QC,47.768753,-78.311947,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Rapide-Blanc,QC_RPB_TSS,TSS,"Hydro Québec",QC,47.796284,-72.973162,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Rapide-des-Coeurs,QC_RPC_GSS,GSS,"Hydro Québec",QC,47.787815,-73.373740,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Rapides-Farmers,QC_RPF_GSS,GSS,"Hydro Québec",QC,45.498749,-75.760590,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Rapides-des-Iles,QC_RPI_GSS,GSS,"Hydro Québec",QC,47.577221,-79.357548,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Rapides-des-Quinze,QC_RPQ_GSS,GSS,"Hydro Québec",QC,47.590055,-79.294783,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Repetigny,QC_RPT_DSS,DSS,"Hydro Québec",QC,45.734672,-73.477308,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Rosemont,QC_RSM_DSS,DSS,"Hydro Québec",QC,45.541763,-73.582187,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Roussillon,QC_RSN_DSS,DSS,"Hydro Québec",QC,45.395490,-73.494970,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Rosiers,QC_RSR_DSS,DSS,"Hydro Québec",QC,45.838485,-72.005042,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Rivière-aux-Bouleaux,QC_RVB_DSS,DSS,"Hydro Québec",QC,50.289632,-65.525821,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Rivière-à-la-Chaloupe,QC_RVC_DSS,DSS,"Hydro Québec",QC,50.300518,-65.115136,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Rivière-au-Renard,QC_RVD_DSS,DSS,"Hydro Québec",QC,48.991632,-64.398966,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Rouville,QC_RVL_DSS,DSS,"Hydro Québec",QC,45.532195,-73.197685,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Rivière-aux-Rochers,QC_RVR_DSS,DSS,"Hydro Québec",QC,50.029889,-66.886611,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Rivière-Sainte-Anne,QC_RVS_DSS,DSS,"Hydro Québec",QC,48.950322,-66.117924,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Rivière-au-Tonnerre,QC_RVT_DSS,DSS,"Hydro Québec",QC,50.289248,-64.781876,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Rouyn,QC_RYN_DSS,DSS,"Hydro Québec",QC,48.260478,-79.026616,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Saint-Basile,QC_SAB_DSS,DSS,"Hydro Québec",QC,45.534047,-73.267486,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Sainte-Agathe-des-Monts,QC_SAG_DSS,DSS,"Hydro Québec",QC,46.058911,-74.277721,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Saguenay,QC_SAG_TSS,TSS,"Hydro Québec",QC,48.375798,-71.286499,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Saint-Alexandre,QC_SAL_DSS,DSS,"Hydro Québec",QC,47.679131,-69.610391,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Saint-Ambroise,QC_SAM_DSS,DSS,"Hydro Québec",QC,48.542363,-71.312356,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Sainte-Anne-des-Plaines,QC_SAP_DSS,DSS,"Hydro Québec",QC,45.731595,-73.823960,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Saint-Blaise,QC_SBL_DSS,DSS,"Hydro Québec",QC,48.517773,-77.675655,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Saint-Bruno-de-Montarville,QC_SBM_DSS,DSS,"Hydro Québec",QC,45.513654,-73.367095,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Saint-Chrysostome,QC_SCH_DSS,DSS,"Hydro Québec",QC,45.114802,-73.780991,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Sainte-Claire,QC_SCL_DSS,DSS,"Hydro Québec",QC,46.598273,-70.919371,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Saint-Clément,QC_SCM_DSS,DSS,"Hydro Québec",QC,47.942491,-69.047140,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Saint-Césaire,QC_SCS_DSS,DSS,"Hydro Québec",QC,45.411497,-72.990382,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Seigneurie de Beaupré",QC_SDB_GSS,GSS,"Hydro Québec",QC,47.325569,-70.856415,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Sidbec-Dosco,QC_SDD_ISS,ISS,"Hydro Québec",QC,45.836704,-73.245599,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Saint-Donat,QC_SDN_DSS,DSS,"Hydro Québec",QC,46.291377,-74.213266,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Sainte-Émélie,QC_SEM_DSS,DSS,"Hydro Québec",QC,46.302911,-73.590802,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Saint-Eustache,QC_SEU_DSS,DSS,"Hydro Québec",QC,45.581196,-73.920229,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Saint-Évariste,QC_SEV_DSS,DSS,"Hydro Québec",QC,45.965661,-70.930590,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Saint-Félicien,QC_SFE_DSS,DSS,"Hydro Québec",QC,48.687540,-72.497619,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"SFK Pâte SENC",QC_SFK_ISS,ISS,"Hydro Québec",QC,48.743988,-72.503831,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Saint-François,QC_SFR_DSS,DSS,"Hydro Québec",QC,45.673726,-73.628770,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Sainte-Germaine,QC_SGE_DSS,DSS,"Hydro Québec",QC,46.404956,-70.521941,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"SGL Canada",QC_SGL_ISS,ISS,"Hydro Québec",QC,45.636338,-74.289569,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Saint-Georges,QC_SGO_DSS,DSS,"Hydro Québec",QC,46.147443,-70.673351,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Shawinigan-2,QC_SH2_GSS,GSS,"Hydro Québec",QC,46.535741,-72.766879,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Shawinigan-3,QC_SH3_GSS,GSS,"Hydro Québec",QC,46.533799,-72.765615,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Sherbrooke,QC_SHR_TSS,TSS,"Hydro Québec",QC,45.412650,-72.001909,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Simard,QC_SIM_TSS,TSS,"Hydro Québec",QC,48.546877,-71.190175,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Saint-Jean,QC_SJE_DSS,DSS,"Hydro Québec",QC,45.473023,-73.833092,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Saint-Joseph,QC_SJO_DSS,DSS,"Hydro Québec",QC,46.314192,-70.866866,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Saint-Jérôme,QC_SJR_DSS,DSS,"Hydro Québec",QC,45.779933,-74.076130,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Salaberry,QC_SLB_DSS,DSS,"Hydro Québec",QC,45.505383,-73.754406,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Silicium-Bécancour,QC_SLB_ISS,ISS,"Hydro Québec",QC,46.371996,-72.386599,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Saint-Lin,QC_SLI_DSS,DSS,"Hydro Québec",QC,45.817955,-73.767728,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Saint-Louis,QC_SLO_DSS,DSS,"Hydro Québec",QC,45.294397,-73.840128,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Sully,QC_SLY_DSS,DSS,"Hydro Québec",QC,47.636822,-69.121907,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Sully JCT",QC_SLY_JCT,JCT,"Hydro Québec",QC,47.658540,-69.123353,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Saint-Lazare,QC_SLZ_DSS,DSS,"Hydro Québec",QC,46.646571,-70.796873,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Sainte-Marguerite-1,QC_SM1_DFS,DFS,"Hydro Québec",QC,50.197114,-66.636316,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Sainte-Marguerite-2,QC_SM2_DFS,DFS,"Hydro Québec",QC,50.212366,-66.658522,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Sainte-Marguerite-3,QC_SM3_DFS,DFS,"Hydro Québec",QC,50.714911,-66.781721,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Sainte-Marie,QC_SMA_DSS,DSS,"Hydro Québec",QC,46.443567,-70.995099,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Saint-Maxime,QC_SMX_DSS,DSS,"Hydro Québec",QC,45.503171,-73.482305,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Sorel,QC_SOR_DSS,DSS,"Hydro Québec",QC,46.032082,-73.137467,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Sources,QC_SOU_DSS,DSS,"Hydro Québec",QC,45.488184,-73.803795,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Saint-Pascal,QC_SPA_DSS,DSS,"Hydro Québec",QC,47.521316,-69.801442,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Sainte-Perpétue,QC_SPE_DSS,DSS,"Hydro Québec",QC,46.067829,-72.442249,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Spruce Falls Inc",QC_SPF_ISS,ISS,"Hydro Québec",QC,49.085354,-66.669720,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Saint-Patrick,QC_SPK_DSS,DSS,"Hydro Québec",QC,45.474706,-73.576322,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Saint-Polycarpe,QC_SPL_DSS,DSS,"Hydro Québec",QC,45.303853,-74.294392,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Shipshaw,QC_SPS_GSS,GSS,"Hydro Québec",QC,48.447041,-71.217053,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Squatec,QC_SQU_DSS,DSS,"Hydro Québec",QC,47.878283,-68.738962,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Saint-Robert-Bellarmin,QC_SRB_GSS,GSS,"Hydro Québec",QC,45.700711,-70.536465,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Sarcelle,QC_SRC_GSS,GSS,"Hydro Québec",QC,52.667913,-76.630478,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Saint-Rémi,QC_SRE_DSS,DSS,"Hydro Québec",QC,45.266865,-73.607546,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Saraguay,QC_SRG_DSS,DSS,"Hydro Québec",QC,45.505683,-73.747748,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Sainte-Rosalie,QC_SRL_DSS,DSS,"Hydro Québec",QC,45.634738,-72.909034,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Sainte-Rose,QC_SRO_DSS,DSS,"Hydro Québec",QC,45.623160,-73.760068,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Sorel-Sud,QC_SRS_DSS,DSS,"Hydro Québec",QC,46.016066,-73.086550,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Saint-Sauveur,QC_SSA_DSS,DSS,"Hydro Québec",QC,45.898262,-74.203326,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Saint-Sébastien,QC_SSB_DSS,DSS,"Hydro Québec",QC,45.130021,-73.147380,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Saint-Sulpice,QC_SSL_DSS,DSS,"Hydro Québec",QC,45.801540,-73.433494,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Sept-Îles,QC_STI_DSS,DSS,"Hydro Québec",QC,50.215325,-66.366101,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Stukely,QC_STK_DSS,DSS,"Hydro Québec",QC,45.322067,-72.400948,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Sainte-Thérèse-Ouest,QC_STO_DSS,DSS,"Hydro Québec",QC,45.622205,-73.852831,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Senneterre,QC_STR_DSS,DSS,"Hydro Québec",QC,48.387230,-77.251245,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Stanstead,QC_STS_DSS,DSS,"Hydro Québec",QC,45.020811,-72.114257,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Saint-Ulric-Saint-Léandre,QC_SUL_GSS,GSS,"Hydro Québec",QC,48.735359,-67.666072,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Sayabec,QC_SYB_DSS,DSS,"Hydro Québec",QC,48.556449,-67.686472,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Trans Canada Énergie",QC_TCE_ISS,ISS,"Hydro Québec",QC,46.366867,-72.405060,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Tracy,QC_TCY_DSS,DSS,"Hydro Québec",QC,45.995983,-73.172340,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Terrebonne,QC_TER_DSS,DSS,"Hydro Québec",QC,46.565479,-72.728975,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Thibaudeau,QC_THI_DSS,DSS,"Hydro Québec",QC,46.565473,-72.729001,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Thetford,QC_THT_DSS,DSS,"Hydro Québec",QC,46.075510,-71.342458,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Thurso-Papineau,QC_THU_DSS,DSS,"Hydro Québec",QC,45.601625,-75.253975,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Toulnustouc,QC_TLC_GSS,GSS,"Hydro Québec",QC,49.970609,-68.161950,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Tilly,QC_TLY_TSS,TSS,"Hydro Québec",QC,53.871672,-73.466920,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Tembec Inc Témiscaming",QC_TMB_ISS,ISS,"Hydro Québec",QC,46.713110,-79.097570,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Temcell,QC_TMC_ISS,ISS,"Hydro Québec",QC,46.714687,-79.092494,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Templeton,QC_TMP_DSS,DSS,"Hydro Québec",QC,45.509476,-75.587772,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Trenche,QC_TRC_GSS,GSS,"Hydro Québec",QC,47.751591,-72.879396,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Touraine,QC_TRN_DSS,DSS,"Hydro Québec",QC,45.492886,-75.702355,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Trois-Pistoles,QC_TRP_DSS,DSS,"Hydro Québec",QC,48.109749,-69.141617,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Trois-Rivières,QC_TRR_SWS,SWS,"Hydro Québec",QC,46.364470,-72.601763,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Usine Alma",QC_UAL_ISS,ISS,"Hydro Québec",QC,48.583205,-71.685872,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Usine Beauharnois Alcan",QC_UBA_ISS,ISS,"Hydro Québec",QC,45.307993,-73.896788,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Uniboard Canada Inc",QC_UCI_ISS,ISS,"Hydro Québec",QC,48.554359,-67.659087,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Usine Jonquière",QC_UJQ_DSS,DSS,RTA,QC,48.432744,-71.162863,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Ville de Joliette",QC_VDJ_DSS,DSS,"Hydro Québec",QC,46.023732,-73.423798,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Ville de Magog",QC_VDM_DSS,DSS,"Hydro Québec",QC,45.274014,-72.121252,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Val d'Or",QC_VDO_DSS,DSS,"Hydro Québec",QC,48.116903,-77.797741,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Vaudreuil-Soulanges,QC_VDS_DSS,DSS,"Hydro Québec",QC,45.413078,-74.133586,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Vignan,QC_VGN_TSS,TSS,"Hydro Québec",QC,45.496135,-75.702082,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Viger,QC_VIG_SWS,SWS,"Hydro Québec",QC,45.487957,-73.544175,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Valleyfield,QC_VLF_DSS,DSS,"Hydro Québec",QC,45.251243,-74.110932,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Villeroy,QC_VLL_DSS,DSS,"Hydro Québec",QC,46.383215,-71.882715,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Varennes,QC_VRN_DSS,DSS,"Hydro Québec",QC,45.703101,-73.404992,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Ville de Saguenay",QC_VSA_DSS,DSS,"Hydro Québec",QC,48.421237,-71.201106,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Ville de Sherbrooke Saint-François",QC_VSF_DSS,DSS,"Hydro Québec",QC,45.421698,-71.905139,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Ville de Sherbrooke Galt",QC_VSG_DSS,DSS,"Hydro Québec",QC,45.390661,-71.882130,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Ville de Sherbrooke Massé",QC_VSM_DSS,DSS,"Hydro Québec",QC,45.371325,-72.017580,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"Ville de Sherbrooke Orford",QC_VSO_DSS,DSS,"Hydro Québec",QC,45.399108,-71.964182,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Val-Tétreau,QC_VTR_DSS,DSS,"Hydro Québec",QC,45.419706,-75.739955,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Waconichi,QC_WCO_DSS,DSS,"Hydro Québec",QC,50.292875,-73.771229,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Weedon,QC_WDN_DSS,DSS,"Hydro Québec",QC,45.685630,-71.458868,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Wemindji,QC_WJI_DSS,DSS,"Hydro Québec",QC,53.006197,-78.792034,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Wakefield,QC_WKF_DSS,DSS,"Hydro Québec",QC,45.666073,-75.943435,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Waterloo,QC_WLO_DSS,DSS,"Hydro Québec",QC,45.341647,-72.533611,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Windsor,QC_WND_DSS,DSS,"Hydro Québec",QC,45.568782,-71.993478,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Waswanipi,QC_WSW_DSS,DSS,"Hydro Québec",QC,49.813731,-75.698031,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Wyman,QC_WYM_DSS,DSS,"Hydro Québec",QC,45.552742,-76.324922,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Yamaska,QC_YAM_DSS,DSS,"Hydro Québec",QC,45.969646,-72.836369,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"INT Sandy Pond",XX_QCUS1_INT,INT,"QC-US Border",QC,45.011382,-71.736560,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"INT Derby",XX_QCUS2_INT,INT,"QC-US Border",QC,45.005641,-72.109295,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"INT Highgate",XX_QCUS3_INT,INT,"QC-US Border",QC,45.014169,-72.968183,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"INT Massena Dundee",XX_QCUS4_INT,INT,"QC-US Border",QC,44.996952,-74.454093,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL
+"INT Dennison",XX_QCUS5_INT,INT,"QC-US Border",QC,45.004700,-74.785827,Québec,"name:391, node_code:None, node_type:373, owner:None, latitude:None, longitude:None, references:None, ",NULL

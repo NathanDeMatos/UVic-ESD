@@ -1,0 +1,151 @@
+name,node_code,node_type,owner,province,latitude,longitude,planning_region,sources,notes
+Anola DSC,MB_ANO_DSS,DSS,Manitoba Hydro,MB,49.906555,-96.704222,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Ashern,MB_ASH_DSS,DSS,Manitoba Hydro,MB,51.203876,-98.441514,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Augier,MB_AUG_DSS,DSS,Manitoba Hydro,MB,49.876439,-97.346622,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Austin,MB_AUS_DSS,DSS,Manitoba Hydro,MB,49.945935,-98.927506,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Brandon 65th St East,MB_B65_DSS,DSS,Manitoba Hydro,MB,49.829162,-99.84955,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Birchtree,MB_BCT_DSS,DSS,Manitoba Hydro,MB,55.701757,-97.927141,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Brandon GS,MB_BDN_GSS,GSS,Manitoba Hydro,MB,49.845591,-99.890104,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Flin Flon Border,MB_BDR_DSS,DSS,Manitoba Hydro,MB,54.776933,-101.885089,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Brokenhead,MB_BKH_DSS,DSS,Manitoba Hydro,MB,50.244359,-96.490135,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Brereton Lake,MB_BRT_DSS,DSS,Manitoba Hydro,MB,49.944573,-95.514854,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Beausejour East,MB_BSJ_DSS,DSS,Manitoba Hydro,MB,50.073366,-96.478199,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Birtle South,MB_BTS_DSS,DSS,Manitoba Hydro,MB,50.37214,-101.040532,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Burntwood,MB_BWD_DSS,DSS,Manitoba Hydro,MB,55.752759,-97.819435,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Cranberry Portage,MB_CBP_DSS,DSS,Manitoba Hydro,MB,54.612756,-101.347233,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Carberry North,MB_CBY_DSS,DSS,Manitoba Hydro,MB,49.94657,-99.340925,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Cliff Lake,MB_CFL_DSS,DSS,Manitoba Hydro,MB,54.790114,-101.844362,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Churchill South,MB_CHS_DSS,DSS,Manitoba Hydro,MB,58.735605,-94.110878,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Cornwallis,MB_CNW_DSS,DSS,Manitoba Hydro,MB,49.84512,-99.89605,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Canexus,MB_CNX_ISS,ISS,Manitoba Hydro,MB,49.827488,-99.82919,Manitoba,"name:6, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Crocus Plains ,MB_CRP_DSS,DSS,Manitoba Hydro,MB,49.808182,-99.93827,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Court,MB_CRT_DSS,DSS,Manitoba Hydro,MB,49.957666,-97.151893,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Dakota,MB_DAK_DSS,DSS,Manitoba Hydro,MB,49.833567,-97.110219,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Dorsey CS,MB_DSY_CSS,CSS,Manitoba Hydro,MB,49.991912,-97.427636,Manitoba,"name:None, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Dorsey,MB_DSY_DSS,DSS,Manitoba Hydro,MB,49.991912,-97.427636,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+East Selkirk,MB_ESK_DSS,DSS,Manitoba Hydro,MB,50.124666,-96.852199,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Fortier,MB_FRT_DSS,DSS,Manitoba Hydro,MB,49.831523,-100.005658,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Glenboro South,MB_GBS_DSS,DSS,Manitoba Hydro,MB,49.540334,-99.286904,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Garden Hill,MB_GDH_DSS,DSS,Manitoba Hydro,MB,53.909303,-94.680338,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Griffin Steel,MB_GFS_ISS,ISS,Manitoba Hydro,MB,49.914175,-96.99848,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Gull Lake,MB_GLL_DSS,DSS,Manitoba Hydro,MB,50.379314,-96.494873,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Gillam,MB_GLM_DSS,DSS,Manitoba Hydro,MB,56.363294,-94.616381,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Gods Lake Narrows,MB_GLN_DSS,DSS,Manitoba Hydro,MB,54.532727,-94.438475,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Great Falls GS,MB_GRF_GSS,GSS,Manitoba Hydro,MB,50.461609,-96.009471,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Grand Rapids GS ,MB_GRP_GSS,GSS,Manitoba Hydro,MB,53.160035,-99.286258,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Herblet Lake,MB_HBL_DSS,DSS,Manitoba Hydro,MB,54.886843,-99.997315,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Henday CS,MB_HDY_CSS,CSS,Manitoba Hydro,MB,56.503602,-94.140492,Manitoba,"name:None, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Highland Park,MB_HLP_DSS,DSS,Manitoba Hydro,MB,49.875212,-99.949086,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Hanover ,MB_HNV_DSS,DSS,Manitoba Hydro,MB,49.537841,-96.711579,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Harrow,MB_HRW_DSS,DSS,Manitoba Hydro,MB,49.861343,-97.157344,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Ilford,MB_ILF_DSS,DSS,Manitoba Hydro,MB,56.113606,-95.554694,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Inco,MB_INC_ISS,ISS,Manitoba Hydro,MB,55.72908,-97.860847,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Inkster,MB_INK_DSS,DSS,Manitoba Hydro,MB,49.943801,-97.206336,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Jenpeg GS ,MB_JPG_GSS,GSS,Manitoba Hydro,MB,54.543176,-98.028248,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Kirkfield Park,MB_KFP_DSS,DSS,Manitoba Hydro,MB,49.899633,-97.332274,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Kelsey GS ,MB_KLS_GSS,GSS,Manitoba Hydro,MB,56.040453,-96.537881,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Kelsey TS,MB_KLT_TSS,TSS,Manitoba Hydro,MB,56.040453,-96.537881,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Keeyask GS,MB_KSK_GSS,GSS,Manitoba Hydro,MB,56.330417,-95.342057,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Keeyask SS,MB_KSS_SWS,SWS,Manitoba Hydro,MB,56.330417,-95.342057,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Kettle GS,MB_KTL_GSS,GSS,Manitoba Hydro,MB,56.364427,-94.61826,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Keewatinohk CS,MB_KWT_CSS,CSS,Manitoba Hydro,MB,56.661968,-93.851902,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+HBMS Lalor,MB_LAL_ISS,ISS,Manitoba Hydro,MB,54.861334,-100.099577,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Laverendrye,MB_LAV_DSS,DSS,Manitoba Hydro,MB,49.80433,-97.353822,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Lac Du Bonnet,MB_LDB_DSS,DSS,Manitoba Hydro,MB,50.258729,-96.063013,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Lowe Farm,MB_LFM_DSS,DSS,Manitoba Hydro,MB,49.356146,-97.573297,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Leaf Rapids,MB_LFR_DSS,DSS,Manitoba Hydro,MB,56.483243,-99.988576,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Libau,MB_LIB_DSS,DSS,Manitoba Hydro,MB,50.263731,-96.718322,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Limestone GS,MB_LMS_GSS,GSS,Manitoba Hydro,MB,56.507452,-94.109719,Manitoba,"name:None, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Laurie River #1 TS,MB_LRV_TSS,TSS,Manitoba Hydro,MB,56.25077,-101.11706,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Long Spruce GS,MB_LSP_GSS,GSS,Manitoba Hydro,MB,56.397847,-94.368687,Manitoba,"name:None, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Long Spruce SS,MB_LSP_SWS,SWS,Manitoba Hydro,MB,56.383551,-94.360839,Manitoba,"name:None, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Letellier,MB_LTL_DSS,DSS,Manitoba Hydro,MB,49.133777,-97.310814,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Madison,MB_MAD_DSS,DSS,Manitoba Hydro,MB,49.892906,-97.202862,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+McArthur Falls GS,MB_MCF_GSS,GSS,Manitoba Hydro,MB,50.39806,-95.997724,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Macgregor,MB_MCG_DSS,DSS,Manitoba Hydro,MB,49.945024,-98.765633,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+McPhillips,MB_MCP_DSS,DSS,Manitoba Hydro,MB,49.922886,-97.170637,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Mercy Street ,MB_MCY_DSS,DSS,Manitoba Hydro,MB,50.136148,-96.890643,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Morden Corner,MB_MDC_DSS,DSS,Manitoba Hydro,MB,49.200662,-97.989365,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Minnedosa South,MB_MDS_DSS,DSS,Manitoba Hydro,MB,50.240008,-99.833916,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Manigotagan Corner,MB_MGT_DSS,DSS,Manitoba Hydro,MB,51.114927,-96.310223,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Minitonas,MB_MIN_DSS,DSS,Manitoba Hydro,MB,52.102247,-101.064201,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Melrose DSC,MB_MLR_DSS,DSS,Manitoba Hydro,MB,50.03392,-96.828635,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Mohawk ,MB_MOH_DSS,DSS,Manitoba Hydro,MB,49.817014,-97.163291,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Manitoba Rolling Mills,MB_MRM_DSS,DSS,Manitoba Hydro,MB,50.129995,-96.899225,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Mystery Lake,MB_MYS_DSS,DSS,Manitoba Hydro,MB,55.693744,-97.892198,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Nelson House,MB_NLH_DSS,DSS,Manitoba Hydro,MB,55.884069,-98.822981,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Neepawa South,MB_NPS_DSS,DSS,Manitoba Hydro,MB,50.22056,-99.435032,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Neepawa,MB_NPW_DSS,DSS,Manitoba Hydro,MB,50.225203,-99.443818,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Notigi,MB_NTG_DSS,DSS,Manitoba Hydro,MB,55.874482,-99.311156,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Oakbank,MB_OKB_DSS,DSS,Manitoba Hydro,MB,49.960484,-96.834127,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Overflowing River,MB_OVL_DSS,DSS,Manitoba Hydro,MB,53.143875,-101.10025,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Oxford House,MB_OXF_DSS,DSS,Manitoba Hydro,MB,54.925255,-95.244792,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Pointe Du Bois GS,MB_PDB_GSS,GSS,Manitoba Hydro,MB,50.298099,-95.548057,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Portage South,MB_PGS_DSS,DSS,Manitoba Hydro,MB,49.93096,-98.285278,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Parkdale,MB_PKD_DSS,DSS,Manitoba Hydro,MB,50.076585,-97.050123,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Plessis ,MB_PLS_DSS,DSS,Manitoba Hydro,MB,49.869506,-97.030716,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Pine Falls GS,MB_PNF_GSS,GSS,Manitoba Hydro,MB,50.567135,-96.178345,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Ponton,MB_PTN_DSS,DSS,Manitoba Hydro,MB,54.664935,-99.160753,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Roblin South,MB_RBL_DSS,DSS,Manitoba Hydro,MB,51.212772,-101.327253,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Richer South,MB_RCH_DSS,DSS,Manitoba Hydro,MB,49.619798,-96.459347,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Randolph ,MB_RDP_DSS,DSS,Manitoba Hydro,MB,49.593335,-96.82213,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Radisson CS,MB_RDS_CSS,CSS,Manitoba Hydro,MB,56.363294,-94.616381,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Ridgeway,MB_RGW_DSS,DSS,Manitoba Hydro,MB,49.964462,-96.992463,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Riel CS,MB_RIL_CSS,CSS,Manitoba Hydro,MB,49.865265,-96.939117,Manitoba,"name:None, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Riel,MB_RIL_DSS,DSS,Manitoba Hydro,MB,49.865265,-96.939117,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Rockwood,MB_RKW_DSS,DSS,Manitoba Hydro,MB,50.084052,-97.163168,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Ralls Island,MB_RLI_DSS,DSS,Manitoba Hydro,MB,53.831142,-101.235606,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Rapid City,MB_RPD_DSS,DSS,Manitoba Hydro,MB,50.124029,-99.956141,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Rosenfeld,MB_RSF_DSS,DSS,Manitoba Hydro,MB,49.193275,-97.576548,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Ross Lake ,MB_RSL_DSS,DSS,Manitoba Hydro,MB,54.77512,-101.875465,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Rosser,MB_RSR_DSS,DSS,Manitoba Hydro,MB,49.976267,-97.161766,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Reston,MB_RST_DSS,DSS,Manitoba Hydro,MB,49.530395,-101.096861,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Rutherford JCT,MB_RTH_JCT,JCT,Manitoba Hydro,MB,50.223639,-96.077297,Manitoba,"name:210, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Raven Lake,MB_RVL_DSS,DSS,Manitoba Hydro,MB,50.372236,-100.598042,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Sherbrook,MB_SBK_DSS,DSS,Manitoba Hydro,MB,49.890409,-97.158622,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Scotland,MB_SCT_DSS,DSS,Manitoba Hydro,MB,49.862354,-97.157351,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Seddons Corner DSC,MB_SDC_DSS,DSS,Manitoba Hydro,MB,50.098824,-96.288257,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Souris Enbridge East,MB_SEE_DSS,DSS,Manitoba Hydro,MB,49.644679,-100.140722,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Sherridon,MB_SHD_DSS,DSS,Manitoba Hydro,MB,55.117887,-101.110611,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+St James,MB_SJM_DSS,DSS,Manitoba Hydro,MB,49.880667,-97.201999,Manitoba,"name:7, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Sask Ave ,MB_SKA_DSS,DSS,Manitoba Hydro,MB,49.959502,-98.390897,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Selkirk GS,MB_SKK_GSS,GSS,Manitoba Hydro,MB,50.134731,-96.852008,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Slave Falls GS ,MB_SLF_GSS,GSS,Manitoba Hydro,MB,50.222126,-95.568707,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Star Lake,MB_SLK_DSS,DSS,Manitoba Hydro,MB,49.742455,-95.244076,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Silver ,MB_SLV_DSS,DSS,Manitoba Hydro,MB,50.873765,-97.218738,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Snow Lake ,MB_SNL_DSS,DSS,Manitoba Hydro,MB,54.880106,-100.016068,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Split Lake,MB_SPL_DSS,DSS,Manitoba Hydro,MB,56.260376,-96.155876,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Stafford,MB_STF_DSS,DSS,Manitoba Hydro,MB,49.861343,-97.157344,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+St Joseph GS,MB_STJ_GSS,GSS,Manitoba Hydro,MB,49.134515,-97.42055,Manitoba,"name:206, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+St Leon GS,MB_STL_GSS,GSS,Manitoba Hydro,MB,49.346766,-98.634141,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Stony Mountain West,MB_STM_DSS,DSS,Manitoba Hydro,MB,50.092548,-97.240045,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+St Vital,MB_STV_DSS,DSS,Manitoba Hydro,MB,49.843983,-97.046721,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Stonewall,MB_STW_DSS,DSS,Manitoba Hydro,MB,50.136676,-97.309086,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Stanley,MB_STY_DSS,DSS,Manitoba Hydro,MB,49.265512,-97.980104,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Seven Sisters GS ,MB_SVS_GSS,GSS,Manitoba Hydro,MB,50.120391,-96.0177,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Transcona,MB_TCA_DSS,DSS,Manitoba Hydro,MB,49.909001,-97.001477,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Transcona East,MB_TCE_DSS,DSS,Manitoba Hydro,MB,49.909215,-96.945326,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Treherne,MB_TRH_DSS,DSS,Manitoba Hydro,MB,49.634946,-98.688968,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Tyndall DSC,MB_TYN_DSS,DSS,Manitoba Hydro,MB,50.079396,-96.682893,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Victoria Ave ,MB_VCT_DSS,DSS,Manitoba Hydro,MB,49.841416,-99.914952,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Virden West,MB_VDW_DSS,DSS,Manitoba Hydro,MB,49.850475,-100.962106,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Vivian,MB_VIV_DSS,DSS,Manitoba Hydro,MB,49.946686,-96.500854,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Vermillion,MB_VML_DSS,DSS,Manitoba Hydro,MB,51.130979,-100.08869,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Wilkes,MB_WLK_DSS,DSS,Manitoba Hydro,MB,49.840027,-97.277175,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+William River,MB_WLR_DSS,DSS,Manitoba Hydro,MB,53.887222,-99.234444,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Warren,MB_WRN_DSS,DSS,Manitoba Hydro,MB,50.122224,-97.573369,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Wuskwatim GS ,MB_WSK_GSS,GSS,Manitoba Hydro,MB,55.538319,-98.493781,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Whiteshell,MB_WSL_DSS,DSS,Manitoba Hydro,MB,49.742455,-95.244076,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+Wasagamack,MB_WSM_DSS,DSS,Manitoba Hydro,MB,53.875898,-94.980753,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+INT Drayton,XX_MBUS1_INT,INT,MB-USA Border,MB,48.999732,-97.277868,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+INT Forbes,XX_MBUS2_INT,INT,MB-USA Border,MB,48.999252,-95.53942,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+INT Iron Range,XX_MBUS3_INT,INT,MB-USA Border,MB,49.000379,-95.912972,Manitoba,"name:203, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+INT Moranville,XX_MBUS4_INT,INT,MB-USA Border,MB,48.999208,-95.507149,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+INT Peace Gardens,XX_MBUS5_INT,INT,MB-USA Border,MB,48.999389,-99.559235,Manitoba,"name:219, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+IPT Island Falls,PP_MBSK1_IPT,IPT,MB-SK Border,SK,54.794729,-101.885937,Manitoba,"name:367, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+IPT EB Campbell,PP_MBSK2_IPT,IPT,MB-SK Border,SK,53.722668,-101.769565,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+IPT Boundary Dam,PP_MBSK3_IPT,IPT,MB-SK Border,SK,49.495283,-101.393102,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+IPT Tantallon,PP_MBSK4_IPT,IPT,MB-SK Border,SK,50.544463,-101.474715,Saskatachewan,"name:361, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+IPT Yorkton,PP_MBSK5_IPT,IPT,MB-SK Border,SK,51.202531,-101.538936,Saskatachewan,"name:358, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+IPT  Seven Sisters,PP_ONMB1_IPT,IPT,ON-MB Border,ON,49.908094,-95.152877,Ontario,"name:281, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
+IPT  Whiteshell,PP_ONMB2_IPT,IPT,ON-MB Border,ON,49.7903,-95.152893,Ontario,"name:281, node_code:None, node_type:None, owner:None, latitude:None, longitude:None, references:None, ",NULL
