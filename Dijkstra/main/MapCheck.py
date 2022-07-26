@@ -98,13 +98,13 @@ x = requests.get('http://206.12.95.90/transmission_lines?province=' + province)
 node_voltage = {500, 400, 230} #the node voltage used to check which nodes to aggregate to
 manual_nodes = {} #any nodes to be manually added as main nodes
 
-path = "/home/nathan/UVic-ESD/Dijkstra/Maps"
+path = "/home/nathan/UVic-ESD/Dijkstra/Results/"
 
-suffix = ".json"
+suffix = "temp.json"
 path1 =f"{path[0].upper()}{path[1:]}{province}{suffix}"
 suffix = "formatted.json"
 path2 = f"{path[0].upper()}{path[1:]}{province}{suffix}"
-suffix = ".xlsx"
+suffix = "data.xlsx"
 path3 = f"{path[0].upper()}{path[1:]}{province}{suffix}"
 with open(path1, "w") as output:
     for variable in x.json():
@@ -130,7 +130,7 @@ os.remove(path2)
 #Creates dataframes
 
 raw_data = pd.read_excel(path3)
-raw_node_data = pd.read_csv(province + "-Nodes.csv")
+raw_node_data = pd.read_csv("/home/nathan/UVic-ESD/Dijkstra/Data/" + province + "-Nodes.csv")
 
 columns = ["from_bus", "to_bus", "distance", 'voltage']
 transmission_data = pd.DataFrame([], columns=columns)
@@ -224,7 +224,7 @@ final.to_excel(path3)
 # In[7]:
 
 
-province_map = gpd.read_file(province + 'Map.shp')
+province_map = gpd.read_file("/home/nathan/UVic-ESD/Dijkstra/Maps/" + province + 'Map.shp')
 
 crs = {'init':'EPSG:4326'}
 
@@ -254,7 +254,7 @@ for x, y, label in zip(main['lon1'], main['lat1'], main['node']):
     
 #algoCheck('BC_SCK_DSS', 'BC_ING_DSS', ax)
 
-plt.savefig(province + "Mapped")
+plt.savefig("/home/Nathan/UVic-ESD/Results/" + province + "Mapped")
 
 
 # In[ ]:
