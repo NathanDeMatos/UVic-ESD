@@ -254,7 +254,7 @@ for x, y, label in zip(main['lon1'], main['lat1'], main['node']):
     
 #algoCheck('BC_SCK_DSS', 'BC_ING_DSS', ax)
 
-plt.savefig("/home/Nathan/UVic-ESD/Results/" + province + "Mapped")
+plt.savefig("/home/nathan/UVic-ESD/Results/" + province + "Mapped")
 
 
 # In[ ]:
