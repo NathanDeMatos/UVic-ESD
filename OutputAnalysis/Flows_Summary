@@ -58,12 +58,12 @@ result = pmax.subtract(flows, axis=1)
 result = result.round(0)
 result = result.replace({0:np.nan})
 
-totals = result.sum(0)
-totals = totals[totals!=0]
+totals = pd.Series(result.sum(0), name='Surplus')
+
 
 #saves results as excel spreadsheet
 with pd.ExcelWriter('flow_results.xlsx') as path:
     flows.to_excel(path, sheet_name= 'flows')
     pmax.to_excel(path, sheet_name= 'pmax')
     result.to_excel(path, sheet_name = 'results')
-    totals.to_excel(path, sheet_name='totals')
+    totals.to_excel(path, sheet_name='surplus')

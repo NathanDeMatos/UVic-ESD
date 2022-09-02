@@ -93,18 +93,16 @@ totals = result.sum(0)
 totals = totals[totals!=0]
 yearMax = pd.Series([totals.sum(), totals.idxmax()], ['Year Total', 'Year Max'])
 totals = totals.append(yearMax)
+totals.rename('Total Curtailment [MW]', inplace=True)
 
 result.insert(0, 'Hourly Max', result.idxmax(axis='columns', skipna=True))
-result.insert(0, 'Hourly Totals', result.sum(1))
+result.insert(0, 'Hourly Totals [MW]', result.sum(1))
 
 
 
 
-with pd.ExcelWriter('results.xlsx') as path:
+with pd.ExcelWriter('curtailment_results.xlsx') as path:
     available.to_excel(path, sheet_name= 'available')
     used.to_excel(path, sheet_name= 'used')
     result.to_excel(path, sheet_name='result')
     totals.to_excel(path, sheet_name='Summary')
-
-
-
