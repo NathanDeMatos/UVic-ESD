@@ -18,33 +18,30 @@ province = 'BC' #set the desired province
 node_voltage = {500} #the node voltage used to check which nodes to aggregate to
 manual_nodes = {} #any nodes to be manually added as main nodes
 
-# =============================================================================
-# 
-# path = os.getcwd()
-# x = requests.get('http://206.12.95.90/transmission_lines?province=' + province)
-# suffix = "temp.json"
-# path1 =f"{path[0].upper()}{path[1:]}{province}{suffix}"
-# suffix = "formatted.json"
-# path2 = f"{path[0].upper()}{path[1:]}{province}{suffix}"
-# suffix = "data.xlsx"
-# path3 = f"{path[0].upper()}{path[1:]}{province}{suffix}"
-# with open(path1, "w") as output:
-#     for variable in x.json():
-#         json.dump(variable,output)
-# 
-# #the json.dump outputs the data into a json file with no commas "}{" the few lines
-# #code below change it to "},{" which makes it readable by panada
-# with open(path1, 'r') as input, open(path2, 'w') as output:
-#     for line in input:
-#         line = re.sub('}{', '},{', line)
-#         output.write('    '+line)
-# os.remove(path1)
-# 
-# df_json = pd.read_json(path2, lines=True)
-# df_json.to_excel(path3)
-# 
-# os.remove(path2)
-# =============================================================================
+path = os.getcwd()
+x = requests.get('http://206.12.95.90/transmission_lines?province=' + province)
+suffix = "temp.json"
+path1 =f"{path[0].upper()}{path[1:]}{province}{suffix}"
+suffix = "formatted.json"
+path2 = f"{path[0].upper()}{path[1:]}{province}{suffix}"
+suffix = "data.xlsx"
+path3 = f"{path[0].upper()}{path[1:]}{province}{suffix}"
+with open(path1, "w") as output:
+    for variable in x.json():
+        json.dump(variable,output)
+
+#the json.dump outputs the data into a json file with no commas "}{" the few lines
+#code below change it to "},{" which makes it readable by panada
+with open(path1, 'r') as input, open(path2, 'w') as output:
+    for line in input:
+        line = re.sub('}{', '},{', line)
+        output.write('    '+line)
+os.remove(path1)
+
+df_json = pd.read_json(path2, lines=True)
+df_json.to_excel(path3)
+
+os.remove(path2)
 
 #Creates dataframes
 transmission_data = pd.read_csv('/home/nathan/UVic-ESD/Dijkstra/Data/Transmission-BC.csv', usecols=['starting_node_code', 'ending_node_code', 'line_segment_length_km', 'voltage_in_kv'])
