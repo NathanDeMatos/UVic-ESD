@@ -146,7 +146,19 @@ def node_connections(province):
         
         coders_name_to_silver["Regina South"] = "Regina"
     
-
+    elif province == "ON":
+        
+        # Add missed nodes
+        coders_name_to_silver["Ashfield SWS"] = "Ashfield SS"
+        coders_name_to_silver["Bowmanville SWS"] = "Bowmanville SS"
+        coders_name_to_silver["Bruce B SWS"] = "Bruce B SS"
+        coders_name_to_silver["Evergreen SWS"] = "Evergreen SS"
+        coders_name_to_silver["K2 Wind GS"] = "K2 Wind 500 CGS"
+        coders_name_to_silver["Milton SWS"] = "Milton SS"
+        coders_name_to_silver["Napanee GS"] = "Napanee CSS"
+        coders_name_to_silver["Nobel SWS"] = "Nobel SS"
+        coders_name_to_silver["Parkhill TS"] = "Parkhill CTS"
+        
     coders_name_to_silver = {x:y for x,y in coders_name_to_silver.items() if y in silver_nodes}
 
     silver_connections = full_name_connections.rename(columns=coders_name_to_silver, index=coders_name_to_silver
@@ -184,7 +196,7 @@ def transmission(connections, capacities, n):
 
 def main():
 
-    # provinces = ["AB", "BC", "MB", "SK"]
+    # provinces = ["AB", "BC", "MB", "SK", "ON"]
 
     # base_capacities = dict.fromkeys(provinces)
     # silver_connections = dict.fromkeys(provinces)
@@ -193,7 +205,7 @@ def main():
 
     #     pass
 
-    province = "BC"
+    province = "ON"
 
     if province == "CA":
 

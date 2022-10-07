@@ -13,45 +13,15 @@ import heapq
 # In[3]:
 
 
-#Imports data from API and formats to excel
 
-# =============================================================================
-# province = 'MB' #set the desired province
-# x = requests.get('http://206.12.95.90/transmission_lines?province=' + province)
-# 
-# path = "/home/nathan/UVic-ESD/Dijkstra/Results/"
-# 
-# suffix = "temp.json"
-# path1 =f"{path[0].upper()}{path[1:]}{province}{suffix}"
-# suffix = "formatted.json"
-# path2 = f"{path[0].upper()}{path[1:]}{province}{suffix}"
-# suffix = "data.xlsx"
-# path3 = f"{path[0].upper()}{path[1:]}{province}{suffix}"
-# with open(path1, "w") as output:
-#     for variable in x.json():
-#         json.dump(variable,output)
-# 
-# #the json.dump outputs the data into a json file with no commas "}{" the few lines
-# #code below change it to "},{" which makes it readable by panada
-# with open(path1, 'r') as input, open(path2, 'w') as output:
-#     for line in input:
-#         line = re.sub('}{', '},{', line)
-#         output.write('    '+line)
-# os.remove(path1)
-# 
-# df_json = pd.read_json(path2, lines=True)
-# df_json.to_excel(path3)
-# 
-# os.remove(path2)
-# =============================================================================
 
 
 # In[4]:
 
 
 #Creates dataframes
-provinces = ["AB", "MB", "SK"]
-province = provinces[2]
+provinces = ["AB", "MB", "SK", "ON"]
+province = provinces[3]
 
 node_distances_data = Path().cwd() / "node_distances_data"
 raw_data = pd.read_csv(node_distances_data / f"Transmission-{province}.csv") #temporarily reading directly from file
