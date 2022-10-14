@@ -14,6 +14,7 @@ import heapq
 
 #Imports data from API and formats to excel
 province = 'BC' #set the desired province
+balancing_area = 'British Columbia'
 
 node_voltage = {500} #the node voltage used to check which nodes to aggregate to
 manual_nodes = {} #any nodes to be manually added as main nodes

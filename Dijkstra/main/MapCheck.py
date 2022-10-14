@@ -93,9 +93,10 @@ def algoCheck(node, old, ax):
 
 #Imports data from API and formats to excel
 
-province = 'MB' #set the desired province
+province = 'BC' #set the desired province
+balancing_area = 'British Columbia'
 x = requests.get('http://206.12.95.90/transmission_lines?province=' + province)
-node_voltage = {500, 400, 230} #the node voltage used to check which nodes to aggregate to
+node_voltage = {500} #the node voltage used to check which nodes to aggregate to
 manual_nodes = {} #any nodes to be manually added as main nodes
 
 path = "/home/nathan/UVic-ESD/Dijkstra/Results/"
@@ -128,16 +129,12 @@ os.remove(path2)
 
 
 #Creates dataframes
+ 
+raw_node_data = pd.read_csv("/home/nathan/UVic-ESD/Dijkstra/Data/CODERS-Nodes.csv")
+raw_node_data = raw_node_data[raw_node_data['planning_region'] == balancing_area]
 
-raw_data = pd.read_excel(path3)
-raw_node_data = pd.read_csv("/home/nathan/UVic-ESD/Dijkstra/Data/" + province + "-Nodes.csv")
-
-columns = ["from_bus", "to_bus", "distance", 'voltage']
-transmission_data = pd.DataFrame([], columns=columns)
-transmission_data['from_bus'] = raw_data['starting_node_code']
-transmission_data['to_bus'] = raw_data['ending_node_code']
-transmission_data['distance'] = raw_data['line_segment_length_km']
-transmission_data['voltage'] = raw_data['voltage_in_kv']
+transmission_data = pd.read_excel(path3)
+transmission_data = transmission_data.loc[(transmission_data['operating_region'].str.contains(balancing_area))]
 
 columns = ['node', 'lat', 'lon']
 node_lookup = pd.DataFrame([], columns = columns)
@@ -145,15 +142,15 @@ node_lookup['node'] = raw_node_data['node_code']
 node_lookup['lat'] = raw_node_data['latitude']
 node_lookup['lon'] = raw_node_data['longitude']
 
-
-main_nodes = transmission_data[transmission_data['voltage'].isin(node_voltage)] #storing set of 'main nodes' to use as starting nodes
-main_nodes = set(main_nodes['to_bus']).union(set(main_nodes['from_bus']))
+#storing set of 'main nodes' to use as starting nodes
+main_nodes = transmission_data[transmission_data['voltage_in_kv'].isin(node_voltage)] 
+main_nodes = set(main_nodes['starting_node_code']).union(set(main_nodes['ending_node_code']))
 main_nodes = main_nodes.union(manual_nodes)
 main = pd.DataFrame(main_nodes, columns = ['node'])
 
 lines = pd.DataFrame([], columns = ['start_node', 'end_node'])
-lines['start_node'] = raw_data['starting_node_code']
-lines['end_node'] = raw_data['ending_node_code']
+lines['start_node'] = transmission_data['starting_node_code']
+lines['end_node'] = transmission_data['ending_node_code']
 
 main = nodeLatLon(main, ['node'])
 lines = nodeLatLon(lines, ['start_node', 'end_node'])
@@ -167,8 +164,8 @@ lines = nodeLatLon(lines, ['start_node', 'end_node'])
 graph = collections.defaultdict(dict) #dictionary of edges and vertices (graph)
 
 for index,row in transmission_data.iterrows(): #iterate through rows of dataframe
-    graph[row['from_bus']][row['to_bus']] = row['distance'] #set edge with to node, from node and distance
-    graph[row['to_bus']][row['from_bus']] = row['distance'] #set same edge in opposite direction (bidirectional)
+    graph[row['starting_node_code']][row['ending_node_code']] = row['line_segment_length_km'] #set edge with to node, from node and distance
+    graph[row['ending_node_code']][row['starting_node_code']] = row['line_segment_length_km'] #set same edge in opposite direction (bidirectional)
 
 distances = {i:{ j: float("inf") for j in graph} for i in main_nodes} #dictionary of shortest distances from each main_node {main_node: {every_node:every_distance}}
 parents = {i:{ j: 0 for j in node_lookup['node']} for i in main_nodes} #dictionary of parent nodes
@@ -218,8 +215,8 @@ final = final.rename(columns = {'index':'old_bus'})
 node = nodeLatLon(final, ['old_bus', 'new_bus'])       
 final = nodeLatLon(final, ['old_bus', 'new_bus'])
 
-final.to_excel(path3)
-
+with pd.ExcelWriter('Aggregated_nodes.xlsx') as writer:
+    final.to_excel(writer, sheet_name = province)
 
 # In[7]:
 
@@ -242,7 +239,7 @@ province_map.to_crs(epsg = 4326).plot(ax=ax, color = 'gray')
 mapNodes.plot(ax=ax, color = 'black', markersize = 50) #Nodes
 mapMainNodes.plot(ax=ax, color = 'red', markersize = 100) #Main Nodes
 mainLines.plot(ax=ax, column = 'new_bus', cmap = 'tab20') #Lines from nodes to main nodes
-allLines.plot(ax=ax, color = 'black') #All lines
+#allLines.plot(ax=ax, color = 'black') #All lines
 
 #name main nodes
 for x, y, label in zip(main['lon1'], main['lat1'], main['node']):
@@ -254,7 +251,7 @@ for x, y, label in zip(main['lon1'], main['lat1'], main['node']):
     
 #algoCheck('BC_SCK_DSS', 'BC_ING_DSS', ax)
 
-plt.savefig("/home/nathan/UVic-ESD/Results/" + province + "Mapped")
+plt.savefig("/home/nathan/UVic-ESD/Dijkstra/Results/" + province + "_Mapped")
 
 
 # In[ ]:
