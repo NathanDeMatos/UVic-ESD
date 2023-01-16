@@ -1,50 +1,47 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+"""
+Created on Jul 25 14:15:49 2022
 
+@author: nathan
+"""
 
 import collections 
-from openpyxl.workbook import workbook
 import pandas as pd
-import numpy as np
-import shutil
-import math
-import sys
-import time
-from openpyxl import load_workbook
-#import xlwings as xw
-import os
-import requests #import library
-import json
-import re
-import tempfile
-import shutil
-import heapq
-
 import geopandas as gpd
 import matplotlib.pyplot as plt
-from shapely.geometry import Point, Polygon, LineString
+from shapely.geometry import Point, LineString
+from pathlib import Path
 
+#%%
+province = 'BC' #set the desired province
+planning_region = 'British Columbia'
 
-# In[2]:
+# Map Settings
+map_mode = 'Main' # Options are All, Main, AlgoCheck
+name_nodes = 'Main' # Options are All, Main, None
 
+# For AlgoCheck
+checkNode = 'BC_GCL_DSS' # Node to check for AlgoCheck
+oldNode = "BC_MSA_DSS" # Old node that checkNode was aggregated to
 
-#Defining Functions
+#%%
+# Defining Functions
 
-#Function to create geopandas dataframe with lines between nodes,
+# Function to create geopandas dataframe with lines between nodes,
 def mapLines(data):  #given a dataframe with 2 sets of lon/lat co-ords
     geometry = [LineString(xy) for xy in zip(zip(data['lon1'], data['lat1']), zip(data['lon2'], data['lat2']))]
     geo_df = gpd.GeoDataFrame(data, crs = {'init':'EPSG:4326'}, geometry = geometry)
     return geo_df #returns a geopandas dataframe with the line geometries assigned
 
-#Function to create geopandas dataframe of points at each node
+# Function to create geopandas dataframe of points at each node
 def mapPoints(data): #given a dataframe with one set of lon/lat co-ords
     geometry = [Point(xy) for xy in zip(data['lon1'], data['lat1'])]
     geo_df = gpd.GeoDataFrame(data, crs = {'init':'EPSG:4326'}, geometry = geometry)
     return geo_df
 
-#Adds the latitude and longitude co-ordinates to each node in a dataframe
+# Adds the latitude and longitude co-ordinates to each node in a dataframe
 def nodeLatLon(df, nodes): #given a dataframe and column headings for each set of nodes
     i = 1
     for bus in nodes:
@@ -53,7 +50,7 @@ def nodeLatLon(df, nodes): #given a dataframe and column headings for each set o
         i = i + 1
     return df
 
-#Recursive function to create dictionary of parent nodes (to find shortest path)
+# Recursive function to create dictionary of parent nodes (to find shortest path)
 def findPath(node, start, pathDict): #given a starting node, main node and an empty defaultdict
     parent = parentdf.loc[node][start]
     
@@ -65,6 +62,7 @@ def findPath(node, start, pathDict): #given a starting node, main node and an em
     pathDict[node] = parent
     
     return pathDict
+
 
 def algoCheck(node, old, ax):
     new = final2.at[node, 'new_bus']
@@ -87,175 +85,58 @@ def algoCheck(node, old, ax):
     mapOldPath.plot(ax=ax, color = 'purple')
     return
 
+#%%
+main_path = str(Path().resolve().parent)
+path = f"{main_path}/Data"
 
-# In[3]:
+final = pd.read_excel(f'{main_path}/Results/Aggregated_nodes_{province}.xlsx', sheet_name = province)
+main = pd.read_excel(f'{main_path}/Results/Aggregated_nodes_{province}.xlsx', sheet_name = 'main_nodes')
+lines = pd.read_excel(f'{main_path}/Results/Aggregated_nodes_{province}.xlsx', sheet_name = 'lines')
+parentdf = pd.read_excel(f'{main_path}/Results/Aggregated_nodes_{province}.xlsx', sheet_name = 'parents')
+parentdf = parentdf.set_index(['Unnamed: 0'])
 
+node_lookup = pd.read_csv(f"{path}/CODERS-Nodes.csv", usecols=['node_code', 'latitude', 'longitude', 'planning_region'])
+node_lookup = node_lookup.query(f'planning_region == "{planning_region}"')
+node_lookup = node_lookup.drop('planning_region', axis=1)
+node_lookup.columns = ['node', 'lat', 'lon']
 
-#Imports data from API and formats to excel
-
-province = 'BC' #set the desired province
-balancing_area = 'British Columbia'
-x = requests.get('http://206.12.95.90/transmission_lines?province=' + province)
-node_voltage = {500} #the node voltage used to check which nodes to aggregate to
-manual_nodes = {} #any nodes to be manually added as main nodes
-
-path = "/home/nathan/UVic-ESD/Dijkstra/Results/"
-
-suffix = "temp.json"
-path1 =f"{path[0].upper()}{path[1:]}{province}{suffix}"
-suffix = "formatted.json"
-path2 = f"{path[0].upper()}{path[1:]}{province}{suffix}"
-suffix = "data.xlsx"
-path3 = f"{path[0].upper()}{path[1:]}{province}{suffix}"
-with open(path1, "w") as output:
-    for variable in x.json():
-        json.dump(variable,output)
-
-#the json.dump outputs the data into a json file with no commas "}{" the few lines
-#code below change it to "},{" which makes it readable by panada
-with open(path1, 'r') as input, open(path2, 'w') as output:
-    for line in input:
-        line = re.sub('}{', '},{', line)
-        output.write('    '+line)
-os.remove(path1)
-
-df_json = pd.read_json(path2, lines=True)
-df_json.to_excel(path3)
-
-os.remove(path2)
-
-
-# In[4]:
-
-
-#Creates dataframes
- 
-raw_node_data = pd.read_csv("/home/nathan/UVic-ESD/Dijkstra/Data/CODERS-Nodes.csv")
-raw_node_data = raw_node_data[raw_node_data['planning_region'] == balancing_area]
-
-transmission_data = pd.read_excel(path3)
-transmission_data = transmission_data.loc[(transmission_data['operating_region'].str.contains(balancing_area))]
-
-columns = ['node', 'lat', 'lon']
-node_lookup = pd.DataFrame([], columns = columns)
-node_lookup['node'] = raw_node_data['node_code']
-node_lookup['lat'] = raw_node_data['latitude']
-node_lookup['lon'] = raw_node_data['longitude']
-
-#storing set of 'main nodes' to use as starting nodes
-main_nodes = transmission_data[transmission_data['voltage_in_kv'].isin(node_voltage)] 
-main_nodes = set(main_nodes['starting_node_code']).union(set(main_nodes['ending_node_code']))
-main_nodes = main_nodes.union(manual_nodes)
-main = pd.DataFrame(main_nodes, columns = ['node'])
-
-lines = pd.DataFrame([], columns = ['start_node', 'end_node'])
-lines['start_node'] = transmission_data['starting_node_code']
-lines['end_node'] = transmission_data['ending_node_code']
+final.columns = ['old_bus', 'new_bus']
+final2 = final.copy()
+final2 = final2.set_index(['old_bus'])
 
 main = nodeLatLon(main, ['node'])
 lines = nodeLatLon(lines, ['start_node', 'end_node'])
-
-
-# In[5]:
-
-
-#Running Dijkstra
-
-graph = collections.defaultdict(dict) #dictionary of edges and vertices (graph)
-
-for index,row in transmission_data.iterrows(): #iterate through rows of dataframe
-    graph[row['starting_node_code']][row['ending_node_code']] = row['line_segment_length_km'] #set edge with to node, from node and distance
-    graph[row['ending_node_code']][row['starting_node_code']] = row['line_segment_length_km'] #set same edge in opposite direction (bidirectional)
-
-distances = {i:{ j: float("inf") for j in graph} for i in main_nodes} #dictionary of shortest distances from each main_node {main_node: {every_node:every_distance}}
-parents = {i:{ j: 0 for j in node_lookup['node']} for i in main_nodes} #dictionary of parent nodes
-
-for start_node in main_nodes:
-    distances[start_node][start_node] = 0 #setting first node distance as 0
-    parents[start_node][start_node] = -1
-    min_dist = [(0,start_node)] #heap of shortest distances (distance, node)
-    visited = set() #set of all visited nodes
-    
-    while min_dist: #while heap is not empty
-            
-        cur_dist, cur = heapq.heappop(min_dist) #pop smallest value from heap, store it's distance and node
-       
-        if cur in visited: continue #skip this loop if current node has been visited
-        
-        visited.add(cur) #add current node to set of visited nodes
-            
-        for neighbor in graph[cur]: #iterate through neighbors of current node
-        
-            if neighbor in visited: continue #skip if in set of visited nodes
-            
-            this_dist = cur_dist + graph[cur][neighbor] #calculate new distance = distance to neighbor + distance to current node
-        
-            if this_dist  < distances[start_node][neighbor]: #check which is smaller
-                distances[start_node][neighbor] = this_dist #store if new distance is smaller
-                parents[start_node][neighbor] = cur
-                heapq.heappush(min_dist, (this_dist, neighbor)) #push neighbor to heap
-
-   
-
-
-# In[6]:
-
-
-#Formatting output and saving to excel
-result = pd.DataFrame.from_dict(distances)
-parentdf = pd.DataFrame.from_dict(parents)
-new = {'new_bus' : result.idxmin(axis=1)}
-
-final = pd.DataFrame(new)
-final2 = pd.DataFrame(new)
-
-final.reset_index(inplace=True)
-final = final.rename(columns = {'index':'old_bus'})
-
 node = nodeLatLon(final, ['old_bus', 'new_bus'])       
 final = nodeLatLon(final, ['old_bus', 'new_bus'])
 
-with pd.ExcelWriter('Aggregated_nodes.xlsx') as writer:
-    final.to_excel(writer, sheet_name = province)
-
-# In[7]:
-
-
-province_map = gpd.read_file("/home/nathan/UVic-ESD/Dijkstra/Maps/" + province + 'Map.shp')
-
+#%%
+province_map = gpd.read_file(f'{main_path}/Maps/{province}Map.shp')
 crs = {'init':'EPSG:4326'}
-
 mapNodes = mapPoints(node)
 mapMainNodes = mapPoints(main)
 mainLines = mapLines(final)
 allLines = mapLines(lines)
 
-
-# In[8]:
-
-
+#%%
 fig, ax = plt.subplots(figsize = (150,150))
 province_map.to_crs(epsg = 4326).plot(ax=ax, color = 'gray')
 mapNodes.plot(ax=ax, color = 'black', markersize = 50) #Nodes
 mapMainNodes.plot(ax=ax, color = 'red', markersize = 100) #Main Nodes
-mainLines.plot(ax=ax, column = 'new_bus', cmap = 'tab20') #Lines from nodes to main nodes
-#allLines.plot(ax=ax, color = 'black') #All lines
 
-#name main nodes
-for x, y, label in zip(main['lon1'], main['lat1'], main['node']):
-    ax.annotate(label, xy=(x, y), xytext=(3, 3), textcoords="offset points", fontsize = 20)
+if map_mode == 'Main':
+    mainLines.plot(ax=ax, column = 'new_bus', cmap = 'tab20') #Lines from nodes to main nodes
+elif map_mode == 'All':
+    allLines.plot(ax=ax, color = 'black') #All lines
+elif map_mode == 'AlgoCheck':
+    algoCheck(checkNode, oldNode, ax)
 
-#name all nodes
-#for x, y, label in zip(final['lon1'], final['lat1'], final['old_bus']):
-    #ax.annotate(label, xy=(x, y), xytext=(3, 3), textcoords="offset points", fontsize = 20)
+if name_nodes == 'Main':
+    # Name main nodes
+    for x, y, label in zip(main['lon1'], main['lat1'], main['node']):
+        ax.annotate(label, xy=(x, y), xytext=(3, 3), textcoords="offset points", fontsize = 20)
+elif name_nodes == 'All':
+    # Name all nodes
+    for x, y, label in zip(final['lon1'], final['lat1'], final['old_bus']):
+        ax.annotate(label, xy=(x, y), xytext=(3, 3), textcoords="offset points", fontsize = 20)
     
-#algoCheck('BC_SCK_DSS', 'BC_ING_DSS', ax)
-
-plt.savefig("/home/nathan/UVic-ESD/Dijkstra/Results/" + province + "_Mapped")
-
-
-# In[ ]:
-
-
-
-
+plt.savefig(f'{main_path}/Results/{province}_mapped_{map_mode}_{name_nodes}')
